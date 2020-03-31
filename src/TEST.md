@@ -15,3 +15,6 @@ This is a sub paragraph, formatted in heading 3 style
 
 ## Another paragraph <a name="paragraph2"></a>
 The second paragraph text
+
+## Image Test
+![](media/test/django-release-notes.png)
