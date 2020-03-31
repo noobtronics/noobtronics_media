@@ -17,4 +17,4 @@ This is a sub paragraph, formatted in heading 3 style
 The second paragraph text
 
 ## Image Test
-![](/media/test/django-release-notes.png?raw=true)
+![](/media/test/django-release-roadmap.png?raw=true)
