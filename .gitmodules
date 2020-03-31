@@ -1,0 +1,3 @@
+[submodule "electronicspi_media"]
+	path = electronicspi_media
+	url = https://github.com/nikhilraut12/electronicspi_media.git
