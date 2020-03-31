@@ -25,7 +25,10 @@ SECRET_KEY = 'q00^4ew14^$bk_az%tw&5v5(d@8=-a#q+3f_zgwxop^_rv0+8-'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    'localhost',
+    'electronicspi.com'
+]
 
 
 # Application definition
