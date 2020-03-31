@@ -27,7 +27,8 @@ DEBUG = True
 
 ALLOWED_HOSTS = [
     'localhost',
-    'electronicspi.com'
+    'electronicspi.com',
+    'www.electronicspi.com',
 ]
 
 
