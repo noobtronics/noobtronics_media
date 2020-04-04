@@ -2,6 +2,9 @@
 
 # Atmega328P Mini Datasheet and Pinout
 
+[_metadata_:author]:- "daveying"
+[_metadata_:tags]:- "markdonw metadata"
+
 |||
 |-|-|
 |![atmega328p pdip 28pin ic](/media/ic/atmega328p/atmega328p_pdip_28pin_ic.png "PIDP 28")|![atmega328p tqfp 32pin ic](/media/ic/atmega328p/atmega328p_tqfp_32pin_ic.png "TQFP 32")|
