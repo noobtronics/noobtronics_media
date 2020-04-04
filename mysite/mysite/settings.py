@@ -41,6 +41,8 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'django_object_actions',
+    'myapp',
 ]
 
 MIDDLEWARE = [
@@ -131,3 +133,6 @@ STATICFILES_DIRS = [
 ]
 
 MEDIA_ROOT = os.path.join(BASE_DIR, '../electronicspi_media/media/')
+
+
+GITHUB_KEY = "c046dfbdeeb4b80681b5e86f52b9997d7458fe07"
