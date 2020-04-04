@@ -1,14 +1,23 @@
-# Table of contents
-1. [Introduction](#introduction)
-2. [Some paragraph](#paragraph1)
-    1. [Sub paragraph](#subparagraph1)
+
+
+# Atmega328P Mini Datasheet and Pinout
+
+|||
+|-|-|
+|![atmega328p pdip 28pin ic](/media/ic/atmega328p/atmega328p_pdip_28pin_ic.png "PIDP 28")|![atmega328p tqfp 32pin ic](/media/ic/atmega328p/atmega328p_tqfp_32pin_ic.png "TQFP 32")|
+
+
+
+## Table of contents
+1. [Overview](#Overview)
+2. [Specifications](#Specifications)
 3. [Another paragraph](#paragraph2)
 
-## Overview <a name="introduction"></a>
+## Overview <a name="Overview"></a>
 Atmega328P is the brain of the Arduino Uno - the famous microcontroller board.
 Atmega328P is a low-power CMOS 8-bit microcontroller based on the AVR enhanced RISC architecture.
 
-## Specifications
+## Specifications <a name="Specifications"></a>
 |||
 |-|-|
 |Frequency|Upto 20Mhz|
@@ -19,11 +28,6 @@ Atmega328P is a low-power CMOS 8-bit microcontroller based on the AVR enhanced R
 |Architecture|AVR|
 
 
-### Sub paragraph <a name="subparagraph1"></a>
-This is a sub paragraph, formatted in heading 3 style
-
-## Another paragraph <a name="paragraph2"></a>
-The second paragraph text
-
-## Image Test
-![](/media/test/django-release-roadmap.png)
+## Pinout Diagram <a name="Pinout"></a>
+![atmega328p 28pin pdip package pinout diagram](/media/ic/atmega328p/atmega328p_28pin_pdip_package_pinout.png "DIP Atmega328P")
+![atmega328p 32pin tqfp package pinout diagram](/media/ic/atmega328p/atmega328p_32pin_tqfp_package_pinout.png "TQFP Atmega328P")
