@@ -8,7 +8,7 @@
 |![atmega328p pdip 28pin ic](/media/ic/atmega328p/atmega328p_pdip_28pin_ic.png "PIDP 28")|![atmega328p tqfp 32pin ic](/media/ic/atmega328p/atmega328p_tqfp_32pin_ic.png "TQFP 32")|
 
 
-<p name="description">Atmega328P Mini Datasheet contains only the relevant information of Atmega328P that you need frequently</p>
+<p name="description">Atmega328P is the brain of the Arduino Uno. Atmega328P Mini Datasheet contains only the relevant information of Atmega328P that you need frequently</p>
 
 ## Table of contents
 1. [Overview](#Overview)
