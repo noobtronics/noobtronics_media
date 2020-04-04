@@ -11,12 +11,12 @@ from bs4 import BeautifulSoup
 def update_blog_obj(blog_obj):
     g = Github(settings.GITHUB_KEY)
     repo  = g.get_repo("nikhilraut12/electronicspi_media")
-    text = repo.get_contents("src/{0}.md".format(blog_obj.slug)).decoded_content.decode()
+    text = repo.get_contents("src{0}.md".format(blog_obj.slug)).decoded_content.decode()
     html = markdown.markdown(text, extensions=['tables'])
     soup = BeautifulSoup(html)
     h1 = soup.find('h1')
     description = soup.find('p',{'name':'description'})
-    blog_obj.title = h1.text
+    blog_obj.heading = h1.text
     blog_obj.description = description.text
 
     h1.decompose()

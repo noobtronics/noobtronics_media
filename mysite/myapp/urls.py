@@ -4,4 +4,5 @@ from myapp.views import *
 
 urlpatterns = [
     path('test', test_view),
+    path('minidatasheet/<slug:ic_name>', minidatasheet_view),
 ]
