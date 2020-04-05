@@ -7,12 +7,10 @@
 |-|-|
 |![atmega328p pdip 28pin ic](/media/ic/atmega328p/atmega328p_pdip_28pin_ic.png "PIDP 28")|![atmega328p tqfp 32pin ic](/media/ic/atmega328p/atmega328p_tqfp_32pin_ic.png "TQFP 32")|
 
----
-layout: post
-title: Blogging Like a Hacker
----
-<meta name="description" content="The quick brown fox jumped over the lazy dog.">
-<meta name="author" content="John Smith">
++++
+title = "Menu button"
+tags = ["interactive", "popup", "javascript"]
++++
 
 ## Table of contents
 1. [Overview](#Overview)
