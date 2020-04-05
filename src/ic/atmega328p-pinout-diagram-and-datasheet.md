@@ -13,10 +13,10 @@ tags: datasheet, atmega328p, pinout, ic, schematic, specification
 
 
 ## Table of contents
-1. [Overview](#Overview)
-2. [Datasheet](#Datasheet)
-3. [Specifications](#Specifications)
-
+1. [Atmega328P Overview](#Overview)
+2. [Atmega328P Datasheet](#Datasheet)
+3. [Atmega328P Specifications](#Specifications)
+4. [Atmega328P Pinout Diagram](#Pinout)
 
 ## Overview <a name="Overview"></a>
 Atmega328P is the brain of the Arduino Uno - the famous microcontroller board.
