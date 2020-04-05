@@ -8,7 +8,7 @@ tags: mini-datasheet, atmega328p
 ---
 
 # Atmega328P Mini Datasheet and Pinout Diagram
-![atmega328p datasheet](/media/ic/atmega328p/atmega328p_ics.png "Atmega328P Datasheet")
+![Atmega328P Datasheet and Pinout Diagram](/media/ic/atmega328p/atmega328p_ics.png "Atmega328P Datasheet and Pinout Diagram")
 
 
 ## Table of contents
