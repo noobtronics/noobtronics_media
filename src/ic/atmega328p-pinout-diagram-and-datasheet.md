@@ -1,5 +1,5 @@
 ---
-title: Atmega328P Datasheet, Pinout Diagram - electronicsPi
+title: Atmega328P Datasheet, Pinout - electronicsPi
 description: Atmega328P is the brain of the Arduino Uno. Atmega328P Mini Datasheet contains Pinout Diagram, Specifications and only the relevant information of Atmega328P that you need frequently
 shortinfo: Atmega328P is the brain of the Arduino Uno. Atmega328P Mini Datasheet contains only the relevant information of Atmega328P that you need frequently
 created: 2019-09-22T17:49:21.603Z
