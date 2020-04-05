@@ -8,7 +8,7 @@ keywords: datasheet, atmega328p, pinout, diagram
 tags: datasheet, atmega328p, pinout, ic, schematic, specification
 ---
 
-# Atmega328P Mini Datasheet and Pinout Diagram
+# Atmega328P Datasheet and Pinout Diagram
 ![Atmega328P Datasheet and Pinout Diagram](/media/ic/atmega328p/atmega328p_ics.png "Atmega328P Datasheet and Pinout Diagram")
 
 
@@ -23,7 +23,7 @@ Atmega328P is the brain of the Arduino Uno - the famous microcontroller board.
 Atmega328P is a low-power CMOS 8-bit microcontroller based on the AVR enhanced RISC architecture.
 
 ## Datasheet <a name="Datasheet"></a>
-- <a href="/media/ic/atmega328p/ATmega328P_Datasheet.pdf">Download ATmega328 Datasheet PDF</a>
+- <a href="/media/ic/atmega328p/ATmega328P_Datasheet.pdf" target="_blank" rel="nofollow">Download ATmega328 Datasheet PDF</a>
 
 
 ## Specifications <a name="Specifications"></a>
