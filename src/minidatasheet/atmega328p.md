@@ -1,7 +1,13 @@
-
+---
+title: Edit This Page
+created: '2018-09-22T17:49:21.603Z'
+path: blog/posts/2018/09/22/174921.md
+id: '174921'
+ctUpdates: 4
+modified: '2018-09-26T16:14:14.159Z'
+---
 
 # Atmega328P Mini Datasheet and Pinout
-
 
 |||
 |-|-|
