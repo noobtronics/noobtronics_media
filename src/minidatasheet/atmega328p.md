@@ -7,7 +7,7 @@ keywords: datasheet, atmega328p, pinout, diagram
 tags: mini-datasheet, atmega328p
 ---
 
-# Atmega328P Mini Datasheet and Pinout
+# Atmega328P Mini Datasheet and Pinout Diagram
 
 |||
 |-|-|
