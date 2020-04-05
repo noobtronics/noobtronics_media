@@ -11,11 +11,6 @@ tags: mini-datasheet, atmega328p
 ![atmega328p datasheet](/media/ic/atmega328p/atmega328p_ics.png "Atmega328P Datasheet")
 
 
-|||
-|-|-|
-|![atmega328p pdip 28pin ic](/media/ic/atmega328p/atmega328p_pdip_28pin_ic.png "PIDP 28")|![atmega328p tqfp 32pin ic](/media/ic/atmega328p/atmega328p_tqfp_32pin_ic.png "TQFP 32")|
-
-
 ## Table of contents
 1. [Overview](#Overview)
 2. [Specifications](#Specifications)
