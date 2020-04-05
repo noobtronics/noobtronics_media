@@ -11,6 +11,8 @@
 layout: post
 title: Blogging Like a Hacker
 ---
+<meta name="description" content="The quick brown fox jumped over the lazy dog.">
+<meta name="author" content="John Smith">
 
 ## Table of contents
 1. [Overview](#Overview)
