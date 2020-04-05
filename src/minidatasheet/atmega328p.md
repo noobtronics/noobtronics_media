@@ -21,14 +21,14 @@ Atmega328P is the brain of the Arduino Uno - the famous microcontroller board.
 Atmega328P is a low-power CMOS 8-bit microcontroller based on the AVR enhanced RISC architecture.
 
 ## Specifications <a name="Specifications"></a>
-|||
-|-|-|
-|Frequency|Upto 20Mhz|
-|Digital I/O|10|
-|Analog Input|8|
-|ADC Rsolution|10-bit|
-|Peripherals|1-UART, 2-SPI, 1-I2C|
-|Architecture|AVR|
+||28pin PDIP Package|32pin TQFP Package|
+|-|-|-|
+|Frequency|Upto 20Mhz|Upto 20Mhz|
+|Digital I/O|10|10|
+|Analog Input|8|8|
+|ADC Rsolution|10-bit|10-bit|
+|Peripherals|1-UART, 2-SPI, 1-I2C|1-UART, 2-SPI, 1-I2C|
+|Architecture|AVR|AVR|
 
 
 ## Pinout Diagram <a name="Pinout"></a>
