@@ -33,5 +33,5 @@ Atmega328P is a low-power CMOS 8-bit microcontroller based on the AVR enhanced R
 
 ## Pinout Diagram <a name="Pinout"></a>
 ![atmega328p 28pin pdip package pinout diagram](/media/ic/atmega328p/atmega328p_28pin_pdip_package_pinout.PNG "DIP Atmega328P")
-[ ![](/media/ic/atmega328p/atmega328p_28pin_pdip_package_pinout.PNG =250x) ](/media/ic/atmega328p/atmega328p_28pin_pdip_package_pinout.PNG)
+[ ![](/media/ic/atmega328p/atmega328p_28pin_pdip_package_pinout.PNG) ](/media/ic/atmega328p/atmega328p_28pin_pdip_package_pinout.PNG =250x)
 ![atmega328p 32pin tqfp package pinout diagram](/media/ic/atmega328p/atmega328p_32pin_tqfp_package_pinout.PNG "TQFP Atmega328P")
