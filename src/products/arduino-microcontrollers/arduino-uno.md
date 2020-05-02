@@ -18,6 +18,16 @@ object:
   methods: [ getter, setter ]
 ```
 
+``` yaml
+# YAML
+object:
+  attributes:
+    - attr1
+    - attr2
+    - attr3
+  methods: [ getter, setter ]
+```
+
 ## Table of contents
 1. [Atmega328P Overview](#Overview)
 2. [Atmega328P Datasheet](#Datasheet)
