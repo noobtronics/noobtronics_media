@@ -7,7 +7,6 @@ sku: arduino-uno
 ```
 
 ``` yaml
-name: Arduino Uno Microcontroller Board with USB Cable
 description: Arduino Uno is famous microcontroller board based on ATmega328P ic alsdkma asldknalsd asdnflaksf daskldnaslfn asdnalksdnlkasndlas asdnflaksf
 ```
 
