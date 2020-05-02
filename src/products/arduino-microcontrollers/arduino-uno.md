@@ -1,3 +1,5 @@
+# Arduino Uno Microcontroller Board with USB Cable
+
 ``` yaml
 title: Arduino Uno - Microcontroller Board
 meta_description: Arduino Uno is famous microcontroller board based on ATmega328P ic
@@ -10,7 +12,7 @@ sku: arduino-uno
 description: Arduino Uno is famous microcontroller board based on ATmega328P ic alsdkma asldknalsd asdnflaksf daskldnaslfn asdnalksdnlkasndlas asdnflaksf
 ```
 
-# Arduino Uno Microcontroller Board with USB Cable
+
 ![Atmega328P Datasheet and Pinout Diagram](/media/ic/atmega328p/atmega328p_ics.png "Atmega328P Datasheet and Pinout Diagram")
 
 
