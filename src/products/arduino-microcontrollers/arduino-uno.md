@@ -8,11 +8,15 @@ tags: arduino-uno, arduino, atmega328p
 # Arduino Uno Microcontroller Board with USB Cable
 ![Atmega328P Datasheet and Pinout Diagram](/media/ic/atmega328p/atmega328p_ics.png "Atmega328P Datasheet and Pinout Diagram")
 
-<!-- Foo
-
-bar
-   baz 
- -->
+``` yaml
+# YAML
+object:
+  attributes:
+    - attr1
+    - attr2
+    - attr3
+  methods: [ getter, setter ]
+```
 
 ## Table of contents
 1. [Atmega328P Overview](#Overview)
