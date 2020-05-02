@@ -5,11 +5,17 @@ keywords: arduino uno, atmega328, microcontroller board
 tags: arduino-uno, arduino, atmega328p
 ---
 
+``` yaml
+title: Arduino Uno - Microcontroller Board
+description: Arduino Uno is famous microcontroller board based on ATmega328P ic
+keywords: arduino uno, atmega328, microcontroller board
+tags: arduino-uno, arduino, atmega328p
+```
+
 # Arduino Uno Microcontroller Board with USB Cable
 ![Atmega328P Datasheet and Pinout Diagram](/media/ic/atmega328p/atmega328p_ics.png "Atmega328P Datasheet and Pinout Diagram")
 
 ``` yaml
-# YAML
 object:
   attributes:
     - attr1
