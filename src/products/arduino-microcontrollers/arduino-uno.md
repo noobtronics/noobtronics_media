@@ -4,7 +4,7 @@ description: Arduino Uno is famous microcontroller board based on ATmega328P ic
 keywords: arduino uno, atmega328, microcontroller board
 ---
 
-# Arduino Uno Mircocontroller Board with USB Cable
+# Arduino Uno Microcontroller Board with USB Cable
 ![Atmega328P Datasheet and Pinout Diagram](/media/ic/atmega328p/atmega328p_ics.png "Atmega328P Datasheet and Pinout Diagram")
 
 
