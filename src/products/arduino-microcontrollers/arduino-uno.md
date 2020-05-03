@@ -28,6 +28,24 @@ description: Arduino Uno is famous microcontroller board based on ATmega328P ic 
    />
 </p>
 
+``` yaml
+variants:
+  - name: SMD Version (China)
+    price: 300
+    cardtitle: 'SMD Version'
+    image: 3
+    in_stock: true
+  - name: DIP Version (Made in India)
+    price: 400
+    cardtitle: 'DIP Version'
+    image: 2
+    in_stock: true
+  - name: SMD Version (Made in India)
+    price: 400
+    cardtitle: 'SMD Version'
+    image: 4
+    in_stock: false
+```
 
 ## Table of contents
 1. [Atmega328P Overview](#Overview)
