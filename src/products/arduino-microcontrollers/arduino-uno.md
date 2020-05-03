@@ -1,15 +1,19 @@
----
-title: Atmega328P Datasheet and Pinout Diagram - electronicsPi
-description: Atmega328P is the brain of the Arduino Uno. Atmega328P Mini Datasheet contains Pinout Diagram, Specifications and only the relevant information of Atmega328P that you need frequently
-shortinfo: Atmega328P is the brain of the Arduino Uno. Atmega328P Mini Datasheet contains only the relevant information of Atmega328P that you need frequently
-created: 2019-09-22T17:49:21.603Z
-author: Kunal Kashyap
-keywords: datasheet, atmega328p, pinout, diagram
-tags: datasheet, atmega328p, pinout, ic, schematic, specification
----
+# Arduino Uno Microcontroller Board with USB Cable
 
-# Atmega328P Datasheet and Pinout Diagram
-![Atmega328P Datasheet and Pinout Diagram](/media/ic/atmega328p/atmega328p_ics.png "Atmega328P Datasheet and Pinout Diagram")
+``` yaml
+title: Arduino Uno - Microcontroller Board
+meta_description: Arduino Uno is famous microcontroller board based on ATmega328P ic
+keywords: arduino uno, atmega328, microcontroller board
+tags: arduino-uno, arduino, atmega328p
+sku: arduino-uno
+```
+
+``` yaml
+description: Arduino Uno is famous microcontroller board based on ATmega328P ic alsdkma asldknalsd asdnflaksf daskldnaslfn asdnalksdnlkasndlas asdnflaksf
+```
+
+
+![](/media/ic/atmega328p/atmega328p_ics.png "Atmega328P Pinout Diagram")
 
 
 ## Table of contents
