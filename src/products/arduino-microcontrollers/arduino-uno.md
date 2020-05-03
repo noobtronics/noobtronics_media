@@ -9,7 +9,7 @@ sku: arduino-uno
 ```
 
 ``` yaml
-description: Arduino Uno is famous microcontroller board based on ATmega328P ic alsdkma asldknalsd asdnflaksf daskldnaslfn asdnalksdnlkasndlas asdnflaksf
+description: Arduino Uno is easiest to learn microcontroller board used by Electronics Engineers to quickly make their project. You can interface with sensors, control motors, leds, talk to computer and much more.
 ```
 
 ## Images
