@@ -9,7 +9,9 @@ sku: arduino-uno
 ```
 
 ``` yaml
-description: Arduino Uno is easiest to learn microcontroller board used by Electronics Engineers to quickly make their project. You can interface with sensors, control motors, leds, talk to computer and much more.
+description: 
+  - Arduino Uno is easiest to learn microcontroller board used by Electronics Engineers to quickly make their project. 
+  - You can interface with sensors, control motors, leds, talk to computer and much more.
 ```
 
 ## Images
