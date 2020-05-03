@@ -62,14 +62,17 @@ variants:
 Arduino Uno is a development board of ATmega328 microcontroller from Microchip Technology (formerly Atmel). It is preprogrammed with optiboot bootloader and can be programmed using Arduino IDE via USB Cable.
 
 ## Specifications <a name="Specifications"></a>
-||28pin PDIP Package|32pin TQFP Package|
+||28pin PDIP Package|
 |-|-|-|
-|Frequency|Upto 20Mhz|Upto 20Mhz|
-|Digital I/O|10|10|
-|Analog Input|8|8|
-|ADC Rsolution|10-bit|10-bit|
-|Peripherals|1-UART, 2-SPI, 1-I2C|1-UART, 2-SPI, 1-I2C|
-|Architecture|AVR|AVR|
+|Microcontroller|ATmega328P|
+|Frequency|16Mhz|
+|Architecture|AVR|
+|Processor|8-bit|
+|Digital I/O|10|
+|Analog Input|8|
+|ADC Rsolution|10-bit|
+|Peripherals|1-UART, 2-SPI, 1-I2C|
+
 
 
 ## Pinout Diagram <a name="Pinout"></a>
