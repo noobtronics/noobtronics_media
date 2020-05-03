@@ -34,17 +34,17 @@ variants:
     price: 300
     cardtitle: 'SMD Version'
     image: 3
-    instock: true
+    in_stock: true
   - name: DIP Version (Made in India)
     price: 400
     cardtitle: 'DIP Version'
     image: 2
-    instock: true
+    in_stock: true
   - name: SMD Version (Made in India)
     price: 400
     cardtitle: 'SMD Version'
     image: 4
-    instock: false
+    in_stock: false
 ```
 
 ## Table of contents
