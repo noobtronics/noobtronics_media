@@ -55,15 +55,11 @@ variants:
 3. [Comparison of Different Models](#Comparison)
 4. [Package Contents](#BoxContents)
 5. [Frequently Asked Questions](#FAQ)
+6. [Downloads](#Downloads)
 
 
 ## Overview <a name="Overview"></a>
-Atmega328P is the brain of the Arduino Uno - the famous microcontroller board.
-Atmega328P is a low-power CMOS 8-bit microcontroller based on the AVR enhanced RISC architecture.
-
-## Datasheet <a name="Datasheet"></a>
-- <a href="/media/ic/atmega328p/ATmega328P_Datasheet.pdf" target="_blank" rel="nofollow">Download ATmega328 Datasheet PDF</a>
-
+Arduino Uno is a development board of ATmega328 microcontroller from Microchip Technology (formerly Atmel). It is preprogrammed with optiboot bootloader and can be programmed using Arduino IDE via USB Cable.
 
 ## Specifications <a name="Specifications"></a>
 ||28pin PDIP Package|32pin TQFP Package|
@@ -88,3 +84,7 @@ Atmega328P is a low-power CMOS 8-bit microcontroller based on the AVR enhanced R
        src="/media/ic/atmega328p/atmega328p_32pin_tqfp_package_pinout.PNG" width="300" 
    /> 
 </p>
+
+## Datasheet <a name="Datasheet"></a>
+- <a href="/media/ic/atmega328p/ATmega328P_Datasheet.pdf" target="_blank" rel="nofollow">Download ATmega328 Datasheet PDF</a>
+
