@@ -12,6 +12,10 @@ sku: arduino-uno
 description: Arduino Uno is famous microcontroller board based on ATmega328P ic alsdkma asldknalsd asdnflaksf daskldnaslfn asdnalksdnlkasndlas asdnflaksf
 ```
 
+``` text
+description: Arduino Uno is famous microcontroller board based on ATmega328P ic alsdkma asldknalsd asdnflaksf daskldnaslfn asdnalksdnlkasndlas asdnflaksf
+```
+
 ## Images
 <p float="left">
   <img alt="Arduino Uno with USB Cable" 
