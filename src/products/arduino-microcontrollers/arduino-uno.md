@@ -50,10 +50,12 @@ variants:
 ```
 
 ## Table of contents
-1. [Atmega328P Overview](#Overview)
-2. [Atmega328P Datasheet](#Datasheet)
-3. [Atmega328P Specifications](#Specifications)
-4. [Atmega328P Pinout Diagram](#Pinout)
+1. [Overview](#Overview)
+2. [Specification](#Specification)
+3. [Comparison of Different Models](#Comparison)
+4. [Package Contents](#BoxContents)
+5. [Frequently Asked Questions](#FAQ)
+
 
 ## Overview <a name="Overview"></a>
 Atmega328P is the brain of the Arduino Uno - the famous microcontroller board.
