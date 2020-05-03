@@ -63,11 +63,12 @@ Arduino Uno is a development board of ATmega328 microcontroller from Microchip T
 
 ## Specifications <a name="Specifications"></a>
 ||28pin PDIP Package|
-|-|-|-|
+|-|-|
 |Microcontroller|ATmega328P|
 |Frequency|16Mhz|
 |Architecture|AVR|
 |Processor|8-bit|
+|Operating Voltage|5V|
 |Digital I/O|10|
 |Analog Input|8|
 |ADC Rsolution|10-bit|
