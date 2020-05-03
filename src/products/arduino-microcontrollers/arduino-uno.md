@@ -51,15 +51,19 @@ variants:
 
 ## Table of contents
 1. [Overview](#Overview)
-2. [Specification](#Specification)
-3. [Comparison of Different Models](#Comparison)
-4. [Package Contents](#BoxContents)
-5. [Frequently Asked Questions](#FAQ)
-6. [Downloads](#Downloads)
+3. [Specification](#Specification)
+4. [Comparison of Different Models](#Comparison)
+5. [Package Contents](#BoxContents)
+6. [Frequently Asked Questions](#FAQ)
+7. [Downloads](#Downloads)
 
 
 ## Overview <a name="Overview"></a>
-Arduino Uno is a development board of ATmega328 microcontroller from Microchip Technology (formerly Atmel). It is preprogrammed with optiboot bootloader and can be programmed using Arduino IDE via USB Cable.
+Arduino Uno is a development board based on ATmega328 microcontroller from Microchip Technology (formerly Atmel). It is preprogrammed with optiboot bootloader and can be programmed using Arduino IDE via USB Cable.
+
+Just like any other microcontroller board, arduino uno can be programmed to read sensors, control motors, leds and communicate with other electronic modules. It became famous because developing firmware (software code) for microcontroller used to be very hard, even electronic engineers took months to write code for simple tasks. Arduino created 'arduino' language which makes writing code so easy that even children in school can now program a microcontroller. 
+
+Uno means number one in spanish denoting Arduino Uno as the first development board to commercially support programming in arduino programming language. Its hardware and software all are open source.
 
 ## Specifications <a name="Specifications"></a>
 ||Arduino Uno|
@@ -73,7 +77,6 @@ Arduino Uno is a development board of ATmega328 microcontroller from Microchip T
 |Analog Input|8|
 |ADC Rsolution|10-bit|
 |Peripherals|1-UART, 2-SPI, 1-I2C|
-
 
 
 ## Pinout Diagram <a name="Pinout"></a>
