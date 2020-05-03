@@ -12,8 +12,21 @@ sku: arduino-uno
 description: Arduino Uno is famous microcontroller board based on ATmega328P ic alsdkma asldknalsd asdnflaksf daskldnaslfn asdnalksdnlkasndlas asdnflaksf
 ```
 
-
-![](/media/ic/atmega328p/atmega328p_ics.png "Atmega328P Pinout Diagram")
+## Images
+<p float="left">
+  <img alt="Arduino Uno with USB Cable" 
+       src="/storage/product/arduino-uno/arduino-uno-dip-with-usb-cable.png" width="280" 
+   />
+  <img alt="Arduino Uno Microcontroller Board" 
+       src="/storage/product/arduino-uno/arduino-uno-dip-board.png" width="280" 
+   />
+  <img alt="Arduino Uno SMD China" 
+       src="/storage/product/arduino-uno/arduino-uno-smd-china.png" width="280" 
+   />
+  <img alt="Arduino Uno SMD India" 
+       src="/storage/product/arduino-uno/arduino-uno-smd-board.png" width="280" 
+   />
+</p>
 
 
 ## Table of contents
