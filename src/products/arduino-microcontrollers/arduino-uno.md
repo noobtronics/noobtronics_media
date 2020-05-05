@@ -79,6 +79,19 @@ Uno means number one in spanish. Hence Arduino 'Uno' is the first development bo
 |Peripherals|1-UART, 2-SPI, 1-I2C|
 
 
+||Arduino Uno|Arduino Uno|Arduino Uno|Arduino Uno|Arduino Uno|
+|-|-|-|-|-|-|
+|Microcontroller|ATmega328P|ATmega328P|ATmega328P|ATmega328P|ATmega328P|
+|Frequency|16Mhz|16Mhz|16Mhz|16Mhz|16Mhz|
+|Architecture|AVR|AVR|AVR|AVR|AVR|
+|Processor|8-bit|AVR|AVR|AVR|AVR|
+|Operating Voltage|5V|AVR|AVR|AVR|AVR|
+|Digital I/O|10|AVR|AVR|AVR|AVR|
+|Analog Input|8|AVR|AVR|AVR|AVR|
+|ADC Rsolution|10-bit|AVR|AVR|AVR|AVR|
+|Peripherals|1-UART, 2-SPI, 1-I2C|AVR|AVR|AVR|AVR|
+
+
 ## Pinout Diagram <a name="Pinout"></a>
 
 <p float="left">
