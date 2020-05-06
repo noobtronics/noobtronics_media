@@ -55,6 +55,7 @@ variants:
 4. [Comparison of Different Models](#Model-Comparison)
 5. [Package Contents](#Package-Contents)
 6. [Frequently Asked Questions](#FAQ)
+7. [Links](#Links)
 7. [Downloads](#Downloads)
 
 
@@ -106,8 +107,11 @@ Performance and Cost. CH340G / CP2102 are chip solution for USB to UART Conversi
 With this board, you can build basic Line Follower, RC Car, Robotic Arm, Drones etc.
 ### I don't know programming can I learn Arduino ?
 Microcontrollers are built to work as per the program instructions. We recommend you to learn basic programming first.
-### Where can I learn more ?
+### Where can I get started ?
 Checkout this blog.
+
+## Related Links <a name="Links"></a>
+- <a href="/media/ic/atmega328p/ATmega328P_Datasheet.pdf" target="_blank" rel="nofollow">Download ATmega328 Datasheet PDF</a>
 
 ## Downloads <a name="Downloads"></a>
 - <a href="/media/ic/atmega328p/ATmega328P_Datasheet.pdf" target="_blank" rel="nofollow">Download ATmega328 Datasheet PDF</a>
