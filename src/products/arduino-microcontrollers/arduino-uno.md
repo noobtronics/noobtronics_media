@@ -51,7 +51,7 @@ variants:
 
 ## Table of contents
 1. [Overview](#Overview)
-3. [Specification](#Specification)
+3. [Specification](#Specifications)
 4. [Comparison of Different Models](#Comparison)
 5. [Package Contents](#BoxContents)
 6. [Frequently Asked Questions](#FAQ)
@@ -78,6 +78,15 @@ Uno means number one in spanish. Hence Arduino 'Uno' is the first development bo
 |Analog Input|6-8|
 |ADC Rsolution|10-bit|
 |Peripherals|1-UART, 2-SPI, 1-I2C|
+
+
+## Comparison of Different Models <a name="Comparison"></a>
+||SMD Version (China)|DIP Version (Made in India)|SMD Version (Made in India)|
+|-|-|-|-|
+|μC Package|32pin TQFP|28pin PDIP|32pin TQFP|
+|μC Removable|✖|✔|✖|
+|Analog Input|6|6|8|
+
 
 
 ||Arduino Uno|Arduino Uno|Arduino Uno|Arduino Uno|Arduino Uno|
