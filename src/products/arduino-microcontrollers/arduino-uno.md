@@ -52,8 +52,8 @@ variants:
 ## Table of contents
 1. [Overview](#Overview)
 3. [Specification](#Specifications)
-4. [Comparison of Different Models](#Comparison)
-5. [Package Contents](#BoxContents)
+4. [Comparison of Different Models](#Model-Comparison)
+5. [Package Contents](#Package-Contents)
 6. [Frequently Asked Questions](#FAQ)
 7. [Downloads](#Downloads)
 
@@ -80,40 +80,19 @@ Uno means number one in spanish. Hence Arduino 'Uno' is the first development bo
 |Peripherals|1-UART, 2-SPI, 1-I2C|
 
 
-## Comparison of Different Models <a name="Comparison"></a>
+## Comparison of Different Models <a name="Model-Comparison"></a>
 ||SMD Version (China)|DIP Version (Made in India)|SMD Version (Made in India)|
 |-|-|-|-|
 |μC Package|32pin TQFP|28pin PDIP|32pin TQFP|
 |μC Removable|✖|✔|✖|
 |Analog Input|6|6|8|
+|USB Cable|USB-B 1 feet|micro USB 3 feet|micro USB 3 feet|
 
 
-
-||Arduino Uno|Arduino Uno|Arduino Uno|Arduino Uno|Arduino Uno|
-|-|-|-|-|-|-|
-|Microcontroller|ATmega328P|ATmega328P|ATmega328P|ATmega328P|ATmega328P|
-|Frequency|16Mhz|16Mhz|16Mhz|16Mhz|16Mhz|
-|Architecture|AVR|AVR|AVR|AVR|AVR|
-|Processor|8-bit|AVR|AVR|AVR|AVR|
-|Operating Voltage|5V|AVR|AVR|AVR|AVR|
-|Digital I/O|10|AVR|AVR|AVR|AVR|
-|Analog Input|8|AVR|AVR|AVR|AVR|
-|ADC Rsolution|10-bit|AVR|AVR|AVR|AVR|
-|Peripherals|1-UART, 2-SPI, 1-I2C|AVR|AVR|AVR|AVR|
-
-
-## Pinout Diagram <a name="Pinout"></a>
-
-<p float="left">
-  <img title="DIP Atmega328P" 
-       alt="atmega328p 28pin pdip package pinout diagram" 
-       src="/media/ic/atmega328p/atmega328p_28pin_pdip_package_pinout.PNG" width="280" 
-   /> 
-  <img title="TQFP Atmega328P" 
-       alt="atmega328p 32pin tqfp package pinout diagram" 
-       src="/media/ic/atmega328p/atmega328p_32pin_tqfp_package_pinout.PNG" width="300" 
-   /> 
-</p>
+## Package Contents <a name="Package-Contents"></a>
+- Arduino Uno Microcontroller Board
+- USB Cable
+- Pinout Diagram (only in Made in India)
 
 ## Datasheet <a name="Datasheet"></a>
 - <a href="/media/ic/atmega328p/ATmega328P_Datasheet.pdf" target="_blank" rel="nofollow">Download ATmega328 Datasheet PDF</a>
