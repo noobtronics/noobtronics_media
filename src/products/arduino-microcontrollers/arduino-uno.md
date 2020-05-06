@@ -92,7 +92,7 @@ Uno means number one in spanish. Hence Arduino 'Uno' is the first development bo
 ## Package Contents <a name="Package-Contents"></a>
 - Arduino Uno Microcontroller Board
 - USB Cable
-- Pinout Diagram (only in Made in India)
+- Instruction Manual and Pinout Diagram (only in Made in India)
 
 ## Datasheet <a name="Datasheet"></a>
 - <a href="/media/ic/atmega328p/ATmega328P_Datasheet.pdf" target="_blank" rel="nofollow">Download ATmega328 Datasheet PDF</a>
