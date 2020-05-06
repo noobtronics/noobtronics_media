@@ -55,7 +55,7 @@ variants:
 4. [Comparison of Different Models](#Model-Comparison)
 5. [Package Contents](#Package-Contents)
 6. [Frequently Asked Questions](#FAQ)
-7. [Links](#Links)
+7. [Related Links](#Links)
 7. [Downloads](#Downloads)
 
 
