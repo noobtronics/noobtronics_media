@@ -98,7 +98,13 @@ Uno means number one in spanish. Hence Arduino 'Uno' is the first development bo
 ## Frequently Asked Questions <a name="FAQ"></a>
 
 ### What is difference between Arduino SMD and DIP ?
-Nothing
+Nothing Instruction Manual and Pinout Diagram Instruction Manual and Pinout Diagram
+### What is difference between Arduino SMD and DIP ?
+Nothing Instruction Manual and Pinout Diagram Instruction Manual and Pinout Diagram
+### What is difference between Arduino SMD and DIP ?
+Nothing Instruction Manual and Pinout Diagram Instruction Manual and Pinout Diagram
+### What is difference between Arduino SMD and DIP ?
+Nothing Instruction Manual and Pinout Diagram Instruction Manual and Pinout Diagram
 
 ## Downloads <a name="Downloads"></a>
 - <a href="/media/ic/atmega328p/ATmega328P_Datasheet.pdf" target="_blank" rel="nofollow">Download ATmega328 Datasheet PDF</a>
