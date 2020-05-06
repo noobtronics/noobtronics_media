@@ -88,6 +88,7 @@ Uno means number one in spanish. Hence Arduino 'Uno' is the first development bo
 |Analog Input|6|6|8|
 |USB Cable|USB-B 1 feet|micro USB 3 feet|micro USB 3 feet|
 
+DIP Version is based on 28pin PDIP package of ATmega328P. DIP IC can be removed from socket and replaced without soldering, hence it is ideal for begineers who can burn the microcontroller unkowingly. SMD Version is based on 32pin TQFP package version of ATmega328P which can provide 2 more analog input pins (if board exposes it).
 
 ## Package Contents <a name="Package-Contents"></a>
 - Arduino Uno Microcontroller Board
