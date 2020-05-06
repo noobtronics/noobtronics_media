@@ -61,12 +61,12 @@ variants:
 ## Overview <a name="Overview"></a>
 Arduino Uno is a development board based on ATmega328 microcontroller from Microchip Technology (formerly Atmel). It is preprogrammed with optiboot bootloader and can be programmed using Arduino IDE via USB Cable.
 
-Just like any other microcontroller board, arduino uno can be programmed to read sensors, control motors, leds and communicate with other electronic modules. It became famous because developing firmware (software code) for microcontroller used to be very hard, even electronic engineers took months to write code for simple tasks. Arduino created 'arduino' language which makes writing code so easy that even children in school can now program a microcontroller. 
+Just like any other microcontroller board, it can be programmed to read sensors, control motors, leds and communicate with other electronic modules. It became famous because developing firmware (software code) for microcontroller used to be very hard, even electronic engineers took months to write code for simple tasks. Arduino company created 'arduino' language which makes writing code so easy that even children in school can now program a microcontroller. 
 
 Uno means number one in spanish. Hence Arduino 'Uno' is the first development board to commercially support programming in arduino programming language. Its hardware and software all are open source.
 
 ## Specifications <a name="Specifications"></a>
-||Arduino Uno|
+|||
 |-|-|
 |Microcontroller|ATmega328P|
 |Frequency|16Mhz|
