@@ -72,9 +72,10 @@ Uno means number one in spanish. Hence Arduino 'Uno' is the first development bo
 |Frequency|16Mhz|
 |Architecture|AVR|
 |Processor|8-bit|
+|Memory|32KB Flash, 2KB SRAM, 1KB EEPROM|
 |Operating Voltage|5V|
-|Digital I/O|10|
-|Analog Input|8|
+|Digital I/O|14|
+|Analog Input|6-8|
 |ADC Rsolution|10-bit|
 |Peripherals|1-UART, 2-SPI, 1-I2C|
 
