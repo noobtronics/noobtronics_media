@@ -98,14 +98,16 @@ DIP Version is based on 28pin PDIP package of ATmega328P. DIP IC can be removed 
 
 ## Frequently Asked Questions <a name="FAQ"></a>
 
-### What is difference between Arduino SMD and DIP ?
-Nothing Instruction Manual and Pinout Diagram Instruction Manual and Pinout Diagram
-### What is difference between Arduino SMD and DIP ?
-Nothing Instruction Manual and Pinout Diagram Instruction Manual and Pinout Diagram
-### What is difference between Arduino SMD and DIP ?
-Nothing Instruction Manual and Pinout Diagram Instruction Manual and Pinout Diagram
-### What is difference between Arduino SMD and DIP ?
-Nothing Instruction Manual and Pinout Diagram Instruction Manual and Pinout Diagram
+### What is difference between Arduino Uno, R2 and R3 ?
+In terms of functionality, there is no difference. For USB to UART conversion, R1/R2 uses ATmega8 while R3 uses ATmega16u2.
+### What is difference between ATmega16u2, CH340G, CP2102 based arduinos ?
+Performance and Cost. CH340G/CP2102 are chip solution for USB to UART Conversion while ATmega16u2 is a microcontroller programmed to do the conversion. CH340G/CP2102 are better in terms of performance and cheaper.
+### What robots can you build with Arduino ?
+You can build basic Line Follower, RC Car, Robotic Arm, Drones etc.
+### I don't know programming can I learn Arduino ?
+Arduino is a microcontroller which is built to work as per the program instructions. We recommend you to learn basic programming first.
+### Where can I learn more ?
+Checkout this blog.
 
 ## Downloads <a name="Downloads"></a>
 - <a href="/media/ic/atmega328p/ATmega328P_Datasheet.pdf" target="_blank" rel="nofollow">Download ATmega328 Datasheet PDF</a>
