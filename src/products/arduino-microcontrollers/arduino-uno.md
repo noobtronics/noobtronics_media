@@ -81,6 +81,7 @@ Uno means number one in spanish. Hence Arduino 'Uno' is the first development bo
 |Analog Input|6-8|
 |ADC Rsolution|10-bit|
 |Peripherals|1-UART, 2-SPI, 1-I2C|
+|Dimensions|68.6 mm × 53.3 mm|
 
 
 ## Comparison of Different Models <a name="Model-Comparison"></a>
