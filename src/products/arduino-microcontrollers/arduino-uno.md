@@ -10,7 +10,7 @@ sku: arduino-uno
 
 ``` yaml
 description: 
-  - Select among SMD vs DIP and Made in India vs Made in China.
+  - Select among SMD vs DIP and Made in India vs Made in China boards.
 ```
 
 ## Images
