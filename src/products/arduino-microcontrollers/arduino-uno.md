@@ -10,8 +10,7 @@ sku: arduino-uno
 
 ``` yaml
 description: 
-  - Arduino Uno is famous microcontroller board based on ATmega328P IC.
-  - You can interface with sensors, control motors, leds, talk to computer and much more.
+  - Select among SMD vs DIP and Made in India vs Made in China.
 ```
 
 ## Images
