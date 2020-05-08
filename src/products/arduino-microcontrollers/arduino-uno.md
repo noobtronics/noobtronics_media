@@ -77,8 +77,8 @@ Uno means number one in spanish, hence meaning of 'Arduino 'Uno' is actually the
 |Processor|8-bit|
 |Memory|32KB Flash, 2KB SRAM, 1KB EEPROM|
 |Operating Voltage|5V|
-|Digital I/O|14|
-|Analog Input|6-8|
+|Digital I/O Pins|14|
+|Analog Input Pins|6-8|
 |ADC Rsolution|10-bit|
 |Peripherals|1-UART, 2-SPI, 1-I2C|
 |Dimensions|68.6 mm × 53.3 mm|
