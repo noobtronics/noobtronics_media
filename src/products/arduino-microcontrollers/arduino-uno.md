@@ -102,7 +102,7 @@ DIP Version is based on 28pin PDIP package of ATmega328P. DIP IC can be removed 
 ## Frequently Asked Questions <a name="FAQ"></a>
 
 ### Can it connect to wifi ?
-No. Arduino Uno by default does not support to any wireless communication like wifi or ble. You need to use modules, shields to support it.
+No. Arduino Uno by default does not support any wireless communication like WiFi or BLE. You need to use extra modules, shields to support it.
 ### What is difference between Arduino Uno, R2 and R3 ?
 In terms of functionality, there is no difference. For USB to UART conversion, R1 / R2 uses ATmega8 while R3 uses ATmega16u2.
 ### What is difference between ATmega16u2, CH340G, CP2102 based arduinos ?
