@@ -119,5 +119,5 @@ Checkout this blog.
 - <a href="/media/ic/atmega328p/ATmega328P_Datasheet.pdf" target="_blank" rel="nofollow">Download ATmega328 Datasheet PDF</a>
 
 ## Downloads <a name="Downloads"></a>
-- <a href="/media/ic/atmega328p/ATmega328P_Datasheet.pdf" target="_blank" rel="nofollow">Download ATmega328 Datasheet PDF</a>
+- <a href="/storage/product/arduino-uno/arduino-uno-pinout-diagram.pdf" target="_blank">Pinout Diagram</a>
 
