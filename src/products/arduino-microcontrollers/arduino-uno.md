@@ -9,7 +9,8 @@ sku: arduino-uno
 ```
 
 ``` yaml
-description: Arduino Uno is famous microcontroller board based on ATmega328P ic alsdkma asldknalsd asdnflaksf daskldnaslfn asdnalksdnlkasndlas asdnflaksf
+description: 
+  - Select among SMD vs DIP and Made in India vs Made in China boards.
 ```
 
 ## Images
@@ -48,39 +49,75 @@ variants:
 ```
 
 ## Table of contents
-1. [Atmega328P Overview](#Overview)
-2. [Atmega328P Datasheet](#Datasheet)
-3. [Atmega328P Specifications](#Specifications)
-4. [Atmega328P Pinout Diagram](#Pinout)
+1. [What is Arduino Uno ?](#What-is-Arduino-Uno)
+1. [Description](#Description)
+3. [Specification](#Specifications)
+4. [Comparison of Different Models](#Model-Comparison)
+5. [Package Contents](#Package-Contents)
+6. [Frequently Asked Questions](#FAQ)
+7. [Related Links](#Links)
+7. [Downloads](#Downloads)
 
-## Overview <a name="Overview"></a>
-Atmega328P is the brain of the Arduino Uno - the famous microcontroller board.
-Atmega328P is a low-power CMOS 8-bit microcontroller based on the AVR enhanced RISC architecture.
+## What is Arduino Uno ? <a name="What-is-Arduino-Uno"></a>
+Arduino Uno is easiest to learn microcontroller board. You can connect it to computer via USB Cable and program it to Control Motors, LEDs, Sensors and ICs to make electronic projects like basic robots, line followers, robotic arm. For many, Arduino Uno is the first board to be used by electronics engineers when they start learning about microcontrollers.
 
-## Datasheet <a name="Datasheet"></a>
-- <a href="/media/ic/atmega328p/ATmega328P_Datasheet.pdf" target="_blank" rel="nofollow">Download ATmega328 Datasheet PDF</a>
+## Description <a name="Description"></a>
+Arduino Uno is a development board based on ATmega328 microcontroller from Microchip Technology (formerly Atmel). It is preprogrammed with optiboot bootloader and can be programmed using Arduino IDE via USB Cable.
 
+Just like any other microcontroller board, it can be programmed to read sensors, control motors, leds and communicate with other electronic modules. It became famous because developing firmware (software code) for microcontroller used to be very hard, even electronic engineers took months to write code for simple tasks. Arduino company created 'arduino' language which makes writing code so easy that even children in school can now program a microcontroller. 
+
+Uno means number one in spanish, hence meaning of 'Arduino 'Uno' is actually the first development board to commercially support programming in arduino programming language. Its hardware and software all are open source.
 
 ## Specifications <a name="Specifications"></a>
-||28pin PDIP Package|32pin TQFP Package|
-|-|-|-|
-|Frequency|Upto 20Mhz|Upto 20Mhz|
-|Digital I/O|10|10|
-|Analog Input|8|8|
-|ADC Rsolution|10-bit|10-bit|
-|Peripherals|1-UART, 2-SPI, 1-I2C|1-UART, 2-SPI, 1-I2C|
-|Architecture|AVR|AVR|
+|||
+|-|-|
+|Microcontroller|ATmega328P|
+|Frequency|16Mhz|
+|Architecture|AVR|
+|Processor|8-bit|
+|Memory|32KB Flash, 2KB SRAM, 1KB EEPROM|
+|Operating Voltage|5V|
+|Digital I/O Pins|14|
+|Analog Input Pins|6-8|
+|ADC Rsolution|10-bit|
+|Peripherals|1-UART, 2-SPI, 1-I2C|
+|Dimensions|68.6 mm × 53.3 mm|
 
 
-## Pinout Diagram <a name="Pinout"></a>
+## Comparison of Different Models <a name="Model-Comparison"></a>
+||SMD Version (China)|DIP Version (Made in India)|SMD Version (Made in India)|
+|-|-|-|-|
+|μC Package|32pin TQFP|28pin PDIP|32pin TQFP|
+|μC Removable|✖|✔|✖|
+|Analog Input|6|6|8|
+|USB Cable|USB-B 1 feet|micro USB 3 feet|micro USB 3 feet|
 
-<p float="left">
-  <img title="DIP Atmega328P" 
-       alt="atmega328p 28pin pdip package pinout diagram" 
-       src="/media/ic/atmega328p/atmega328p_28pin_pdip_package_pinout.PNG" width="280" 
-   /> 
-  <img title="TQFP Atmega328P" 
-       alt="atmega328p 32pin tqfp package pinout diagram" 
-       src="/media/ic/atmega328p/atmega328p_32pin_tqfp_package_pinout.PNG" width="300" 
-   /> 
-</p>
+DIP Version is based on 28pin PDIP package of ATmega328P. DIP IC can be removed from socket and replaced without soldering, hence it is ideal for begineers who can burn the microcontroller unkowingly. SMD Version is based on 32pin TQFP package version of ATmega328P which can provide 2 more analog input pins (if board exposes it).
+
+## Package Contents <a name="Package-Contents"></a>
+- Arduino Uno Microcontroller Board
+- USB Cable
+- Instruction Manual and Pinout Diagram (only in Made in India)
+
+
+## Frequently Asked Questions <a name="FAQ"></a>
+
+### Can it connect to wifi ?
+No. Arduino Uno by default does not support any wireless communication like WiFi or BLE. You need to use extra modules, shields to support it.
+### What is difference between Arduino Uno, R2 and R3 ?
+In terms of functionality, there is no difference. For USB to UART conversion, R1 / R2 uses ATmega8 while R3 uses ATmega16u2.
+### What is difference between ATmega16u2, CH340G, CP2102 based arduinos ?
+Performance and Cost. CH340G / CP2102 are chip solution for USB to UART Conversion while ATmega16u2 is a microcontroller programmed to do the conversion. CH340G / CP2102 are better in terms of performance and cheaper.
+### What robots can you build with it ?
+You can build basic Line Follower, RC Car, Robotic Arm, Quadcopter etc. robots
+### I don't know programming can I learn Arduino ?
+Microcontrollers are built to work as per the program instructions. We recommend you to learn basic programming first.
+### Where can I get started ?
+Checkout this blog.
+
+## Related Links <a name="Links"></a>
+- <a href="/media/ic/atmega328p/ATmega328P_Datasheet.pdf" target="_blank" rel="nofollow">Download ATmega328 Datasheet PDF</a>
+
+## Downloads <a name="Downloads"></a>
+- <a href="/media/ic/atmega328p/ATmega328P_Datasheet.pdf" target="_blank" rel="nofollow">Download ATmega328 Datasheet PDF</a>
+
