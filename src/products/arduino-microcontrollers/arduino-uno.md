@@ -50,7 +50,7 @@ variants:
 
 ## Table of contents
 1. [What is Arduino Uno ?](#What-is-Arduino-Uno)
-1. [Overview](#Overview)
+1. [Description](#Description)
 3. [Specification](#Specifications)
 4. [Comparison of Different Models](#Model-Comparison)
 5. [Package Contents](#Package-Contents)
@@ -61,7 +61,7 @@ variants:
 ## What is Arduino Uno ? <a name="What-is-Arduino-Uno"></a>
 Arduino Uno is easiest to learn microcontroller board. You can connect it to computer via USB Cable and program it to Control Motors, LEDs, Sensors and ICs to make electronic projects like basic robots, line followers, robotic arm. For many, Arduino Uno is the first board to be used by electronics engineers when they start learning about microcontrollers.
 
-## Overview <a name="Overview"></a>
+## Description <a name="Description"></a>
 Arduino Uno is a development board based on ATmega328 microcontroller from Microchip Technology (formerly Atmel). It is preprogrammed with optiboot bootloader and can be programmed using Arduino IDE via USB Cable.
 
 Just like any other microcontroller board, it can be programmed to read sensors, control motors, leds and communicate with other electronic modules. It became famous because developing firmware (software code) for microcontroller used to be very hard, even electronic engineers took months to write code for simple tasks. Arduino company created 'arduino' language which makes writing code so easy that even children in school can now program a microcontroller. 
