@@ -10,7 +10,7 @@ sku: arduino-uno
 
 ``` yaml
 description: 
-  - Arduino Uno is easiest to learn microcontroller board used by Electronics Engineers to quickly make their project. 
+  - Arduino Uno is famous microcontroller board based on ATmega328P IC.
   - You can interface with sensors, control motors, leds, talk to computer and much more.
 ```
 
@@ -60,7 +60,7 @@ variants:
 7. [Downloads](#Downloads)
 
 ## What is Arduino Uno ? <a name="What-is-Arduino-Uno"></a>
-Arduino Uno is easiest to learn microcontroller board used by Electronics Engineers to quickly make their project.
+Arduino Uno is easiest to learn microcontroller board used by Electronics Engineers to quickly make their project. You can connect it to computer via USB Cable and program it to Control Motors, LEDs, ICs to make electronic projects like basic robots, line followers, robotic arm.
 
 ## Overview <a name="Overview"></a>
 Arduino Uno is a development board based on ATmega328 microcontroller from Microchip Technology (formerly Atmel). It is preprogrammed with optiboot bootloader and can be programmed using Arduino IDE via USB Cable.
