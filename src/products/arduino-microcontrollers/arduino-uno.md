@@ -60,7 +60,7 @@ variants:
 7. [Downloads](#Downloads)
 
 ## What is Arduino Uno ? <a name="What-is-Arduino-Uno"></a>
-Arduino Uno is easiest to learn microcontroller board used by Electronics Engineers to quickly make their project. You can connect it to computer via USB Cable and program it to Control Motors, LEDs, ICs to make electronic projects like basic robots, line followers, robotic arm.
+Arduino Uno is easiest to learn microcontroller board. You can connect it to computer via USB Cable and program it to Control Motors, LEDs, ICs to make electronic projects like basic robots, line followers, robotic arm. Many different microcontroller boards are available but Arduino Uno is first board for many electronics engineers and hobbyist.
 
 ## Overview <a name="Overview"></a>
 Arduino Uno is a development board based on ATmega328 microcontroller from Microchip Technology (formerly Atmel). It is preprogrammed with optiboot bootloader and can be programmed using Arduino IDE via USB Cable.
