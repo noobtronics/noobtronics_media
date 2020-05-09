@@ -110,6 +110,8 @@ In terms of functionality, there is no difference. For USB to UART conversion, R
 Performance and Cost. CH340G / CP2102 are chip solution for USB to UART Conversion while ATmega16u2 is a microcontroller programmed to do the conversion. CH340G / CP2102 are better in terms of performance and cheaper.
 ### What robots can you build with it ?
 You can build basic Line Follower, RC Car, Robotic Arm, Quadcopter etc. robots
+### Is it original Made in Italy Arduino ?
+Arduino is open source. It is a low cost version of Arduino Uno made availble to Indian Students at economical price because of being made in China / India.
 ### I don't know programming can I learn Arduino ?
 Microcontrollers are built to work as per the program instructions. We recommend you to learn basic programming first.
 ### Where can I get started ?
