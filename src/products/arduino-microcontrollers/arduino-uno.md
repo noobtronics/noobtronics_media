@@ -1,7 +1,7 @@
 # Arduino Uno Microcontroller Board with USB Cable
 
 ``` yaml
-title: Arduino Uno - Microcontroller Board
+title: Arduino Uno - Buy Online in India
 meta_description: Arduino Uno is famous microcontroller board based on ATmega328P ic
 keywords: arduino uno, atmega328, microcontroller board
 tags: arduino-uno, arduino, atmega328p
