@@ -116,8 +116,15 @@ Microcontrollers are built to work as per the program instructions. We recommend
 Checkout this blog.
 
 ## Related Links <a name="Links"></a>
-- <a href="/media/ic/atmega328p/ATmega328P_Datasheet.pdf" target="_blank" rel="nofollow">Download ATmega328 Datasheet PDF</a>
+- 
 
 ## Downloads <a name="Downloads"></a>
+- Arduino IDE
+  - <a href="https://downloads.arduino.cc/arduino-1.8.12-windows.exe" target="_blank" rel="nofollow">Windows EXE</a> <a href="https://downloads.arduino.cc/arduino-1.8.12-windows.zip" target="_blank" rel="nofollow">Windows Zip</a>
+  - <a href="https://downloads.arduino.cc/arduino-1.8.12-linux64.tar.xz" target="_blank" rel="nofollow">Linux</a>
+  - <a href="https://downloads.arduino.cc/arduino-1.8.12-macosx.zip" target="_blank" rel="nofollow">Mac OS</a>
+  
+  
 - <a href="/storage/product/arduino-uno/arduino-uno-pinout-diagram.pdf" target="_blank">Pinout Diagram</a>
+- <a href="/storage/ic/atmega328p/ATmega328P_Datasheet.pdf" target="_blank" rel="nofollow">ATmega328P Datasheet</a>
 
