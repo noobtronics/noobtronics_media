@@ -5,27 +5,26 @@ title: "Arduino Uno: Low Cost Arduino to buy online in India - noobtronics"
 meta_description: Arduino Uno is famous microcontroller board based on ATmega328P IC. Purchase now with free delivery and cash on delivery options all over India.
 keywords: arduino uno, atmega328, microcontroller board
 tags: arduino-uno, arduino, atmega328p
-sku: arduino-uno
 ```
 
 ``` yaml
-description: 
+description:
   - Select among SMD vs DIP and Made in India vs Made in China boards.
 ```
 
 ## Images
 <p float="left">
-  <img alt="Arduino Uno with USB Cable" 
-       src="/storage/product/arduino-uno/arduino-uno-dip-with-usb-cable.png" width="280" 
+  <img alt="Arduino Uno with USB Cable"
+       src="/storage/product/arduino-uno/arduino-uno-dip-with-usb-cable.png" width="280"
    />
-  <img alt="Arduino Uno Microcontroller Board" 
-       src="/storage/product/arduino-uno/arduino-uno-dip-board.png" width="280" 
+  <img alt="Arduino Uno Microcontroller Board"
+       src="/storage/product/arduino-uno/arduino-uno-dip-board.png" width="280"
    />
-  <img alt="Arduino Uno SMD China" 
-       src="/storage/product/arduino-uno/arduino-uno-smd-china.png" width="280" 
+  <img alt="Arduino Uno SMD China"
+       src="/storage/product/arduino-uno/arduino-uno-smd-china.png" width="280"
    />
-  <img alt="Arduino Uno SMD India" 
-       src="/storage/product/arduino-uno/arduino-uno-smd-board.png" width="280" 
+  <img alt="Arduino Uno SMD India"
+       src="/storage/product/arduino-uno/arduino-uno-smd-board.png" width="280"
    />
 </p>
 
@@ -64,7 +63,7 @@ Arduino Uno is easiest to learn microcontroller board. You can connect it to com
 ## Description <a name="Description"></a>
 Arduino Uno is a development board based on ATmega328 microcontroller from Microchip Technology (formerly Atmel). It is preprogrammed with optiboot bootloader and can be programmed using Arduino IDE via USB Cable.
 
-Just like any other microcontroller board, it can be programmed to read sensors, control motors, leds and communicate with other electronic modules. It became famous because developing firmware (software code) for microcontroller used to be very hard, even electronic engineers took months to write code for simple tasks. Arduino company created 'arduino' language which makes writing code so easy that even children in school can now program a microcontroller. 
+Just like any other microcontroller board, it can be programmed to read sensors, control motors, leds and communicate with other electronic modules. It became famous because developing firmware (software code) for microcontroller used to be very hard, even electronic engineers took months to write code for simple tasks. Arduino company created 'arduino' language which makes writing code so easy that even children in school can now program a microcontroller.
 
 Uno means number one in spanish, hence meaning of 'Arduino 'Uno' is actually the first development board to commercially support programming in arduino programming language. Its hardware and software all are open source.
 
@@ -118,13 +117,12 @@ Microcontrollers are built to work as per the program instructions. We recommend
 Checkout this blog.
 
 ## Related Links <a name="Links"></a>
-- 
+-
 
 ## Downloads <a name="Downloads"></a>
 - Arduino IDE <a href="https://downloads.arduino.cc/arduino-1.8.12-windows.exe" target="_blank" rel="nofollow">Windows</a>, <a href="https://downloads.arduino.cc/arduino-1.8.12-linux64.tar.xz" target="_blank" rel="nofollow">Linux</a>, <a href="https://downloads.arduino.cc/arduino-1.8.12-macosx.zip" target="_blank" rel="nofollow">Mac OS</a> or <a href="https://www.arduino.cc/en/main/software" target="_blank" rel="nofollow">visit here</a>
-  
-  
-  
+
+
+
 - <a href="/storage/product/arduino-uno/arduino-uno-pinout-diagram.pdf" target="_blank">Pinout Diagram</a>
 - <a href="/storage/ic/atmega328p/ATmega328P_Datasheet.pdf" target="_blank" rel="nofollow">ATmega328P Datasheet</a>
-

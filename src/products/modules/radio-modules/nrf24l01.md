@@ -5,7 +5,7 @@ title: "Arduino Uno: Low Cost Arduino to buy online in India - noobtronics"
 meta_description: Arduino Uno is famous microcontroller board based on ATmega328P IC. Purchase now with free delivery and cash on delivery options all over India.
 keywords: arduino uno, atmega328, microcontroller board
 tags: arduino-uno, arduino, atmega328p
-sku: arduino-uno
+
 ```
 
 ``` yaml
