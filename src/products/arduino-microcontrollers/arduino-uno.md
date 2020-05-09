@@ -107,7 +107,7 @@ No. Arduino Uno by default does not support any wireless communication like WiFi
 ### What is difference between Arduino Uno, R2 and R3 ?
 In terms of functionality, there is no difference. For USB to UART conversion, R1 / R2 uses ATmega8 while R3 uses ATmega16u2.
 ### What is difference between ATmega16u2, CH340G, CP2102 based arduinos ?
-Performance and Cost. CH340G / CP2102 are chip solution for USB to UART Conversion while ATmega16u2 is a microcontroller programmed to do the conversion. CH340G / CP2102 are better in terms of performance and cheaper.
+Performance and Cost. CH340G / CP2102 are chip solution for USB to UART Conversion while ATmega16u2 is a microcontroller programmed to do the conversion. CH340G / CP2102 are faster in terms of performance and cheaper.
 ### What robots can you build with it ?
 You can build basic Line Follower, RC Car, Robotic Arm, Quadcopter etc. robots
 ### Is it original Made in Italy Arduino ?
