@@ -27,7 +27,7 @@ description:
 variants:
   - name: Arduino Nano
     price: 300
-    cardtitle: 'Arduino Nano'
+    cardtitle: 'ATmega328P μC'
     image: 1
     is_shop: true
     in_stock: true
