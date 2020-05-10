@@ -15,37 +15,26 @@ description:
 
 ## Images
 <p float="left">
-  <img alt="Arduino Uno with USB Cable" 
-       src="/storage/product/arduino-uno/arduino-uno-dip-with-usb-cable.png" width="280" 
+  <img alt="Arduino Mega 2560" 
+       src="/storage/product/arduino-mega/arduino-mega.png" width="280" 
    />
-  <img alt="Arduino Uno Microcontroller Board" 
-       src="/storage/product/arduino-uno/arduino-uno-dip-board.png" width="280" 
-   />
-  <img alt="Arduino Uno SMD China" 
-       src="/storage/product/arduino-uno/arduino-uno-smd-china.png" width="280" 
-   />
-  <img alt="Arduino Uno SMD India" 
-       src="/storage/product/arduino-uno/arduino-uno-smd-board.png" width="280" 
+  <img alt="Arduino Mega Pro Mini" 
+       src="/storage/product/arduino-mega/arduino-mega-pro-mini.png" width="280" 
    />
 </p>
 
 ``` yaml
 variants:
-  - name: SMD Version (China)
+  - name: Mega
     price: 300
-    cardtitle: 'SMD Version'
-    image: 3
+    cardtitle: 'Arduino Mega'
+    image: 1
     in_stock: true
-  - name: DIP Version (Made in India)
+  - name: 2560 Pro Mini
     price: 400
-    cardtitle: 'DIP Version'
+    cardtitle: 'Mega Pro Mini'
     image: 2
     in_stock: true
-  - name: SMD Version (Made in India)
-    price: 400
-    cardtitle: 'SMD Version'
-    image: 4
-    in_stock: false
 ```
 
 ## Table of contents
