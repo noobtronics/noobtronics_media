@@ -18,6 +18,9 @@ description:
   <img alt="Arduino Mega 2560" 
        src="/storage/product/arduino-mega/arduino-mega.png" width="280" 
    />
+  <img alt="Arduino Mega Top View" 
+       src="/storage/product/arduino-mega/arduino-mega-top-view.png" width="280" 
+   />
   <img alt="Arduino Mega Pro Mini" 
        src="/storage/product/arduino-mega/arduino-mega-pro-mini.png" width="280" 
    />
