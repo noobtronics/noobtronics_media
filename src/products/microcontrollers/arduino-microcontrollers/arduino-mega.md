@@ -1,4 +1,4 @@
-# Arduino Uno Microcontroller Board with USB Cable
+# Arduino Mega
 
 ``` yaml
 title: "Arduino Uno: Low Cost Arduino to buy online in India - noobtronics"
@@ -30,7 +30,7 @@ description:
 variants:
   - name: Mega
     price: 300
-    cardtitle: 'Arduino Mega'
+    cardtitle: 'ATmega2560 μC'
     image: 1
     is_shop: true
     in_stock: true
@@ -42,7 +42,7 @@ variants:
     in_stock: true 
   - name: 2560 Pro Mini
     price: 400
-    cardtitle: 'Mega Pro Mini'
+    cardtitle: 'ATmega2560 Pro Mini'
     image: 3
     is_shop: true
     in_stock: true
