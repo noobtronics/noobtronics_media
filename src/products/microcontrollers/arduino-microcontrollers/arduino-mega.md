@@ -1,4 +1,4 @@
-# Arduino Uno Microcontroller Board with USB Cable
+# Arduino Mega
 
 ``` yaml
 title: "Arduino Uno: Low Cost Arduino to buy online in India - noobtronics"
