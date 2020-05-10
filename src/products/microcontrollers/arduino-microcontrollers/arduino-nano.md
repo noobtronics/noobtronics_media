@@ -25,21 +25,12 @@ description:
 
 ``` yaml
 variants:
-  - name: SMD Version (China)
+  - name: Arduino Nano
     price: 300
-    cardtitle: 'SMD Version'
-    image: 3
+    cardtitle: 'Arduino Nano'
+    image: 1
+    is_shop: true
     in_stock: true
-  - name: DIP Version (Made in India)
-    price: 400
-    cardtitle: 'DIP Version'
-    image: 2
-    in_stock: true
-  - name: SMD Version (Made in India)
-    price: 400
-    cardtitle: 'SMD Version'
-    image: 4
-    in_stock: false
 ```
 
 ## Table of contents
