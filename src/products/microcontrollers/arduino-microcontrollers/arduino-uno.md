@@ -61,17 +61,20 @@ variants:
 7. [Related Links](#Links)
 7. [Downloads](#Downloads)
 
-## What is Arduino Uno ? <a name="What-is-Arduino-Uno"></a>
+<a name="What-is-Arduino-Uno"></a>
+## What is Arduino Uno ? 
 Arduino Uno is easiest to learn microcontroller board. You can connect it to computer via USB Cable and program it to Control Motors, LEDs, Sensors and ICs to make electronic projects like basic robots, line followers, robotic arm. For many, Arduino Uno is the first board to be used by electronics engineers when they start learning about microcontrollers.
 
-## Description <a name="Description"></a>
+<a name="Description"></a>
+## Description 
 Arduino Uno is a development board based on ATmega328 microcontroller from Microchip Technology (formerly Atmel). It is preprogrammed with optiboot bootloader and can be programmed using Arduino IDE via USB Cable.
 
 Just like any other microcontroller board, it can be programmed to read sensors, control motors, leds and communicate with other electronic modules. It became famous because developing firmware (software code) for microcontroller used to be very hard, even electronic engineers took months to write code for simple tasks. Arduino company created 'arduino' language which makes writing code so easy that even children in school can now program a microcontroller. 
 
 Uno means number one in spanish, hence meaning of 'Arduino 'Uno' is actually the first development board to commercially support programming in arduino programming language. Its hardware and software all are open source.
 
-## Specifications <a name="Specifications"></a>
+<a name="Specifications"></a>
+## Specifications 
 |||
 |-|-|
 |Microcontroller|ATmega328P|
@@ -86,8 +89,8 @@ Uno means number one in spanish, hence meaning of 'Arduino 'Uno' is actually the
 |Peripherals|1-UART, 2-SPI, 1-I2C|
 |Dimensions|68.6 mm × 53.3 mm|
 
-
-## Comparison of Different Models <a name="Model-Comparison"></a>
+<a name="Model-Comparison"></a>
+## Comparison of Different Models 
 ||SMD Version (China)|DIP Version (Made in India)|SMD Version (Made in India)|
 |-|-|-|-|
 |μC Package|32pin TQFP|28pin PDIP|32pin TQFP|
@@ -97,13 +100,15 @@ Uno means number one in spanish, hence meaning of 'Arduino 'Uno' is actually the
 
 DIP Version is based on 28pin PDIP package of ATmega328P. DIP IC can be removed from socket and replaced without soldering, hence it is ideal for begineers who can burn the microcontroller unkowingly. SMD Version is based on 32pin TQFP package version of ATmega328P which can provide 2 more analog input pins (if board exposes it).
 
-## Package Contents <a name="Package-Contents"></a>
+<a name="Package-Contents"></a>
+## Package Contents 
 - Arduino Uno Microcontroller Board
 - USB Cable
 - Instruction Manual and Pinout Diagram (only in Made in India)
 
 
-## Frequently Asked Questions <a name="FAQ"></a>
+<a name="FAQ"></a>
+## Frequently Asked Questions
 
 ### Can it connect to wifi ?
 No. Arduino Uno by default does not support any wireless communication like WiFi or BLE. You need to use extra modules, shields to support it.
@@ -120,10 +125,12 @@ Microcontrollers are built to work as per the program instructions. We recommend
 ### Where can I get started ?
 Checkout this blog.
 
-## Related Links <a name="Links"></a>
+<a name="Links"></a>
+## Related Links 
 - 
 
-## Downloads <a name="Downloads"></a>
+<a name="Downloads"></a>
+## Downloads 
 - Arduino IDE <a href="https://downloads.arduino.cc/arduino-1.8.12-windows.exe" target="_blank" rel="nofollow">Windows</a>, <a href="https://downloads.arduino.cc/arduino-1.8.12-linux64.tar.xz" target="_blank" rel="nofollow">Linux</a>, <a href="https://downloads.arduino.cc/arduino-1.8.12-macosx.zip" target="_blank" rel="nofollow">Mac OS</a> or <a href="https://www.arduino.cc/en/main/software" target="_blank" rel="nofollow">visit here</a>
   
   
