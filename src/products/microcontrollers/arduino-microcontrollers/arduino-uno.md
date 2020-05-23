@@ -16,16 +16,16 @@ description:
 ## Images
 <p float="left">
   <img alt="Arduino Uno with USB Cable" 
-       src="/storage/product/arduino-uno/arduino-uno-dip-with-usb-cable.png" width="280" 
+       src="/storage/product/arduino-uno/arduino-uno-dip-with-usb-cable.jpg" width="280" 
    />
   <img alt="Arduino Uno Microcontroller Board" 
-       src="/storage/product/arduino-uno/arduino-uno-dip-board.png" width="280" 
+       src="/storage/product/arduino-uno/arduino-uno-dip-board.jpg" width="280" 
    />
   <img alt="Arduino Uno SMD China" 
-       src="/storage/product/arduino-uno/arduino-uno-smd-china.png" width="280" 
+       src="/storage/product/arduino-uno/arduino-uno-smd-china.jpg" width="280" 
    />
   <img alt="Arduino Uno SMD India" 
-       src="/storage/product/arduino-uno/arduino-uno-smd-board.png" width="280" 
+       src="/storage/product/arduino-uno/arduino-uno-smd-board.jpg" width="280" 
    />
 </p>
 
