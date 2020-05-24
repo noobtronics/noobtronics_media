@@ -3,7 +3,7 @@
 ``` yaml
 title: "Arduino Nano Buy Online in India at Best Price- noobtronics"
 shortname: Arduino Nano
-meta_description: Arduino Nano is mini form of Arduino Uno.
+meta_description: Arduino Nano is mini form of Arduino Uno Microcontroller Board based on ATmega328P IC. Purchase now with free delivery and cash on delivery options all over India.
 keywords: arduino nano, atmega328, microcontroller board
 tags: arduino-nano, arduino, atmega328p
 
@@ -11,22 +11,36 @@ tags: arduino-nano, arduino, atmega328p
 
 ## Images
 <p float="left">
-  <img alt="Arduino Uno with USB Cable" 
-       src="/storage/product/arduino-nano/arduino-nano.png" width="280" 
+  <img alt="Arduino Nano with USB Cable" 
+       src="/storage/product/arduino-nano/arduino-nano-with-usb-cable.jpg" width="280" 
    />
-  <img alt="Arduino Uno Microcontroller Board" 
-       src="/storage/product/arduino-nano/arduino-nano-back-side.png" width="280" 
+  <img alt="Arduino Nano Top Side View" 
+       src="/storage/product/arduino-nano/arduino-nano-top-side.jpg" width="280" 
    />
+  <img alt="Arduino Nano Bottom Side View" 
+       src="/storage/product/arduino-nano/arduino-nano-bottom-side.jpg" width="280" 
+   />
+    <img alt="Arduino Nano in Hand representing how small it is" 
+       src="/storage/product/arduino-nano/arduino-nano-in-hand.jpg" width="280" 
+   />
+  
 </p>
 
 ``` yaml
 variants:
-  - name: Arduino Nano
+  - name: Without Cable
     price: 300
     cardname: 'Arduino Nano'
     cardtitle: 'ATmega328P μC'
     image: 1
     is_shop: true
+    in_stock: true
+  - name: With Cable
+    price: 330
+    cardname: 'Arduino Nano'
+    cardtitle: 'ATmega328P μC'
+    image: 1
+    is_shop: false
     in_stock: true
 ```
 
