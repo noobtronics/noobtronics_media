@@ -3,7 +3,7 @@
 ``` yaml
 title: "Arduino Nano Buy Online in India at Best Price- noobtronics"
 shortname: Arduino Nano
-meta_description: Arduino Nano is mini form of Arduino Uno.
+meta_description: Arduino Nano is mini form of Arduino Uno Microcontroller Board based on ATmega328P IC. Purchase now with free delivery and cash on delivery options all over India.
 keywords: arduino nano, atmega328, microcontroller board
 tags: arduino-nano, arduino, atmega328p
 
