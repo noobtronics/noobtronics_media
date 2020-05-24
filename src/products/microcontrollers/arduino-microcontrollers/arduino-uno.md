@@ -33,19 +33,22 @@ description:
 variants:
   - name: SMD Version (China)
     price: 300
-    cardtitle: 'SMD Version'
+    cardname: 'Arduino Uno'
+    cardtitle: 'SMD Version - China'
     image: 3
     is_shop: true
     in_stock: true
   - name: DIP Version (Made in India)
     price: 400
-    cardtitle: 'DIP Version'
+    cardname: 'Arduino Uno'
+    cardtitle: 'DIP Version - India'
     image: 2
     is_shop: true
     in_stock: true
   - name: SMD Version (Made in India)
     price: 400
-    cardtitle: 'SMD Version'
+    cardname: 'Arduino Uno'
+    cardtitle: 'SMD Version - India'
     image: 4
     is_shop: true
     in_stock: false
