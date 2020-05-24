@@ -2,9 +2,10 @@
 
 ``` yaml
 title: "Arduino Mega Buy Online in India at Best Price - noobtronics"
+shortname: Arduino Mega
 meta_description: Arduino Mega is the advanced version of Arduino Uno microcontroller board based on ATmega2560 IC. Purchase now with free delivery and cash on delivery options all over India.
 keywords: arduino mega, atmega2560, microcontroller board
-tags: arduino-uno, arduino, atmega328p
+tags: arduino-mega, arduino, atmega2560
 
 ```
 
