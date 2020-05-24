@@ -16,14 +16,20 @@ description:
 
 ## Images
 <p float="left">
-  <img alt="Arduino Mega 2560" 
-       src="/storage/product/arduino-mega/arduino-mega.png" width="280" 
+  <img alt="Arduino Mega with USB Cable" 
+       src="/storage/product/arduino-mega/arduino-mega-with-usb-cable.jpg" width="280" 
+   />
+  <img alt="Dimensions of Arduino Mega in mm" 
+       src="/storage/product/arduino-mega/arduino-mega-dimension.jpg" width="280" 
    />
   <img alt="Arduino Mega Top View" 
-       src="/storage/product/arduino-mega/arduino-mega-with-usb-cable.png" width="280" 
+       src="/storage/product/arduino-mega/arduino-mega-top-view.jpg" width="280" 
    />
-  <img alt="Arduino Mega Pro Mini" 
-       src="/storage/product/arduino-mega/arduino-mega-pro-mini.png" width="280" 
+  <img alt="Arduino Mega Bottom View" 
+       src="/storage/product/arduino-mega/arduino-mega-bottom-view.jpg" width="280" 
+   />
+  <img alt="Arduino Mega 2560 Pro Mini" 
+       src="/storage/product/arduino-mega/2560-mega-pro-mini.jpg" width="280" 
    />
 </p>
 
