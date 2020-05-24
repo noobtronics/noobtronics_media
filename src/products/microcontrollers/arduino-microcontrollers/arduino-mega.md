@@ -58,4 +58,4 @@ variants:
 
 <a name="What-is-Arduino-Mega"></a>
 ## What is Arduino Mega ? 
-Arduino Mega is the "Mega" version of Arduino Uno. It is based on ATmega2560 microcontroller IC. If engineer face any shortage of I/O pins, flash memory on Arduino Uno they can move to Arduino Mega without changing their code.
+Arduino Mega is the "Mega" version of Arduino Uno. It is based on ATmega2560 microcontroller IC. If engineer face any shortage of I/O pins, flash memory on Arduino Uno they use Arduino Mega. All software code written for Uno will work with Mega without any issues.
