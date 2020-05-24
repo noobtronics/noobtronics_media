@@ -1,4 +1,4 @@
-# Arduino Nano
+# Arduino Nano Microcontroller Board
 
 ``` yaml
 title: "Arduino Nano Buy Online in India at Best Price- noobtronics"
