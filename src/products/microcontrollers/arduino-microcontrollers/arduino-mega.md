@@ -1,9 +1,9 @@
-# Arduino Mega
+# Arduino Mega 2560 Microcontroller Board
 
 ``` yaml
-title: "Arduino Uno: Low Cost Arduino to buy online in India - noobtronics"
-meta_description: Arduino Uno is famous microcontroller board based on ATmega328P IC. Purchase now with free delivery and cash on delivery options all over India.
-keywords: arduino uno, atmega328, microcontroller board
+title: "Arduino Mega Buy Online in India at Best Price - noobtronics"
+meta_description: Arduino Mega is the advanced version of Arduino Uno microcontroller board based on ATmega2560 IC. Purchase now with free delivery and cash on delivery options all over India.
+keywords: arduino mega, atmega2560, microcontroller board
 tags: arduino-uno, arduino, atmega328p
 
 ```
