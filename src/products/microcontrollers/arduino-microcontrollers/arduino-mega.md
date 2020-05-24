@@ -39,21 +39,21 @@ variants:
     price: 300
     cardname: 'Arduino Mega'
     cardtitle: 'ATmega2560 μC'
-    image: 1
+    image: 3
     is_shop: true
     in_stock: true
   - name: Mega with USB
     price: 300
     cardname: 'Arduino Mega'
     cardtitle: 'Arduino Mega with USB'
-    image: 2
+    image: 1
     is_shop: false
     in_stock: true 
   - name: 2560 Pro Mini
     price: 400
     cardname: 'Arduino Mega Pro Mini'
     cardtitle: 'ATmega2560 μC'
-    image: 3
+    image: 5
     is_shop: true
     in_stock: true
 ```
