@@ -58,4 +58,4 @@ variants:
 
 <a name="What-is-Arduino-Mega"></a>
 ## What is Arduino Mega ? 
-Arduino Uno is easiest to learn microcontroller board. You can connect it to computer via USB Cable and program it to Control Motors, LEDs, Sensors and ICs to make electronic projects like basic robots, line followers, robotic arm. For many, Arduino Uno is the first board to be used by electronics engineers when they start learning about microcontrollers.
+Arduino Mega is the "Mega" version of Arduino Uno. It is based on ATmega2560 microcontroller IC. If engineer face any shortage of I/O pins, flash memory on Arduino Uno they can move to Arduino Mega without changing their code.
