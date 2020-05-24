@@ -28,12 +28,19 @@ tags: arduino-nano, arduino, atmega328p
 
 ``` yaml
 variants:
-  - name: Arduino Nano
+  - name: Without Cable
     price: 300
     cardname: 'Arduino Nano'
     cardtitle: 'ATmega328P μC'
     image: 1
     is_shop: true
+    in_stock: true
+  - name: With Cable
+    price: 330
+    cardname: 'Arduino Nano'
+    cardtitle: 'ATmega328P μC'
+    image: 1
+    is_shop: false
     in_stock: true
 ```
 
