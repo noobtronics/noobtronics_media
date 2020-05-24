@@ -2,6 +2,7 @@
 
 ``` yaml
 title: "Arduino Uno: Low Cost Arduino to buy online in India - noobtronics"
+shortname: Arduino Uno
 meta_description: Arduino Uno is famous microcontroller board based on ATmega328P IC. Purchase now with free delivery and cash on delivery options all over India.
 keywords: arduino uno, atmega328, microcontroller board
 tags: arduino-uno, arduino, atmega328p
@@ -16,16 +17,16 @@ description:
 ## Images
 <p float="left">
   <img alt="Arduino Uno with USB Cable" 
-       src="/storage/product/arduino-uno/arduino-uno-dip-with-usb-cable.png" width="280" 
+       src="/storage/product/arduino-uno/arduino-uno-dip-with-usb-cable.jpg" width="280" 
    />
   <img alt="Arduino Uno Microcontroller Board" 
-       src="/storage/product/arduino-uno/arduino-uno-dip-board.png" width="280" 
+       src="/storage/product/arduino-uno/arduino-uno-dip-board.jpg" width="280" 
    />
   <img alt="Arduino Uno SMD China" 
-       src="/storage/product/arduino-uno/arduino-uno-smd-china.png" width="280" 
+       src="/storage/product/arduino-uno/arduino-uno-smd-china.jpg" width="280" 
    />
   <img alt="Arduino Uno SMD India" 
-       src="/storage/product/arduino-uno/arduino-uno-smd-board.png" width="280" 
+       src="/storage/product/arduino-uno/arduino-uno-smd-board.jpg" width="280" 
    />
 </p>
 
@@ -33,19 +34,22 @@ description:
 variants:
   - name: SMD Version (China)
     price: 300
-    cardtitle: 'SMD Version'
+    cardname: 'Arduino Uno'
+    cardtitle: 'SMD Version - China'
     image: 3
     is_shop: true
     in_stock: true
   - name: DIP Version (Made in India)
     price: 400
-    cardtitle: 'DIP Version'
+    cardname: 'Arduino Uno'
+    cardtitle: 'DIP Version - India'
     image: 2
     is_shop: true
     in_stock: true
   - name: SMD Version (Made in India)
     price: 400
-    cardtitle: 'SMD Version'
+    cardname: 'Arduino Uno'
+    cardtitle: 'SMD Version - India'
     image: 4
     is_shop: true
     in_stock: false
