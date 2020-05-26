@@ -16,17 +16,12 @@ description:
 
 ## Images
 <p float="left">
-  <img alt="Arduino Uno with USB Cable" 
-       src="/storage/product/arduino-uno/arduino-uno-dip-with-usb-cable.png" width="280" 
+  <img alt="Smartduino Uno with USB Cable" 
+       src="/storage/product/smartduino-uno/smartduino-uno-with-usb-cable.jpg" width="280" 
    />
-  <img alt="Arduino Uno Microcontroller Board" 
-       src="/storage/product/arduino-uno/arduino-uno-dip-board.png" width="280" 
-   />
-  <img alt="Arduino Uno SMD China" 
-       src="/storage/product/arduino-uno/arduino-uno-smd-china.png" width="280" 
-   />
-  <img alt="Arduino Uno SMD India" 
-       src="/storage/product/arduino-uno/arduino-uno-smd-board.png" width="280" 
+  
+  <img alt="Smartduino - ATmega328PB Based Microcontroller Board" 
+       src="/storage/product/smartduino-uno/smarduino-uno-atmega328pb-board.jpg" width="280" 
    />
 </p>
 
