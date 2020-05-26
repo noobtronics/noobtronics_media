@@ -1,10 +1,11 @@
-# Arduino Uno Microcontroller Board with USB Cable
+# Smartduino Uno Microcontroller Board
 
 ``` yaml
-title: "Arduino Uno: Low Cost Arduino to buy online in India - noobtronics"
-meta_description: Arduino Uno is famous microcontroller board based on ATmega328P IC. Purchase now with free delivery and cash on delivery options all over India.
-keywords: arduino uno, atmega328, microcontroller board
-tags: arduino-uno, arduino, atmega328p
+title: "Smartduino Uno Buy Online in India - noobtronics"
+shortname: Smartduino Uno
+meta_description: Smartduino Uno is Arduino Board based on ATmega328PB microcontroller IC. Smartduino is smarter than Arduino Uno.
+keywords: smartduino uno, atmega328pb, microcontroller board
+tags: smartduino-uno, arduino, atmega328pb
 
 ```
 
@@ -31,100 +32,19 @@ description:
 
 ``` yaml
 variants:
-  - name: SMD Version (China)
+  - name: Smartduino Uno
     price: 300
-    cardtitle: 'SMD Version'
+    cardname: Smartduino Uno
+    cardtitle: 'ATmega328PB uC'
     image: 3
     in_stock: true
-  - name: DIP Version (Made in India)
-    price: 400
-    cardtitle: 'DIP Version'
-    image: 2
-    in_stock: true
-  - name: SMD Version (Made in India)
-    price: 400
-    cardtitle: 'SMD Version'
-    image: 4
-    in_stock: false
 ```
 
 ## Table of contents
-1. [What is Arduino Uno ?](#What-is-Arduino-Uno)
-1. [Description](#Description)
-3. [Specification](#Specifications)
-4. [Comparison of Different Models](#Model-Comparison)
-5. [Package Contents](#Package-Contents)
-6. [Frequently Asked Questions](#FAQ)
-7. [Related Links](#Links)
-7. [Downloads](#Downloads)
+1. [What is Smartduino Uno ?](#What-is-Smartduino-Uno)
 
-## What is Arduino Uno ? <a name="What-is-Arduino-Uno"></a>
-Arduino Uno is easiest to learn microcontroller board. You can connect it to computer via USB Cable and program it to Control Motors, LEDs, Sensors and ICs to make electronic projects like basic robots, line followers, robotic arm. For many, Arduino Uno is the first board to be used by electronics engineers when they start learning about microcontrollers.
+<a name="What-is-Arduino-Uno"></a>
+## What is Smartduino Uno ? 
+Smartduino Uno is an Arduino board. It uses ATmega328PB IC which is upgraded version of ATmega328P bringing more peripherals like UART, SPI, I2C. You can replace Arduino Uno with Smartduino Uno to get more peripherals.
 
-## Description <a name="Description"></a>
-Arduino Uno is a development board based on ATmega328 microcontroller from Microchip Technology (formerly Atmel). It is preprogrammed with optiboot bootloader and can be programmed using Arduino IDE via USB Cable.
-
-Just like any other microcontroller board, it can be programmed to read sensors, control motors, leds and communicate with other electronic modules. It became famous because developing firmware (software code) for microcontroller used to be very hard, even electronic engineers took months to write code for simple tasks. Arduino company created 'arduino' language which makes writing code so easy that even children in school can now program a microcontroller. 
-
-Uno means number one in spanish, hence meaning of 'Arduino 'Uno' is actually the first development board to commercially support programming in arduino programming language. Its hardware and software all are open source.
-
-## Specifications <a name="Specifications"></a>
-|||
-|-|-|
-|Microcontroller|ATmega328P|
-|Frequency|16Mhz|
-|Architecture|AVR|
-|Processor|8-bit|
-|Memory|32KB Flash, 2KB SRAM, 1KB EEPROM|
-|Operating Voltage|5V|
-|Digital I/O Pins|14|
-|Analog Input Pins|6-8|
-|ADC Rsolution|10-bit|
-|Peripherals|1-UART, 2-SPI, 1-I2C|
-|Dimensions|68.6 mm × 53.3 mm|
-
-
-## Comparison of Different Models <a name="Model-Comparison"></a>
-||SMD Version (China)|DIP Version (Made in India)|SMD Version (Made in India)|
-|-|-|-|-|
-|μC Package|32pin TQFP|28pin PDIP|32pin TQFP|
-|μC Removable|✖|✔|✖|
-|Analog Input|6|6|8|
-|USB Cable|USB-B 1 feet|micro USB 3 feet|micro USB 3 feet|
-
-DIP Version is based on 28pin PDIP package of ATmega328P. DIP IC can be removed from socket and replaced without soldering, hence it is ideal for begineers who can burn the microcontroller unkowingly. SMD Version is based on 32pin TQFP package version of ATmega328P which can provide 2 more analog input pins (if board exposes it).
-
-## Package Contents <a name="Package-Contents"></a>
-- Arduino Uno Microcontroller Board
-- USB Cable
-- Instruction Manual and Pinout Diagram (only in Made in India)
-
-
-## Frequently Asked Questions <a name="FAQ"></a>
-
-### Can it connect to wifi ?
-No. Arduino Uno by default does not support any wireless communication like WiFi or BLE. You need to use extra modules, shields to support it.
-### What is difference between Arduino Uno, R2 and R3 ?
-In terms of functionality, there is no difference. For USB to UART conversion, R1 / R2 uses ATmega8 while R3 uses ATmega16u2.
-### What is difference between ATmega16u2, CH340G, CP2102 based arduinos ?
-Performance and Cost. CH340G / CP2102 are chip solution for USB to UART Conversion while ATmega16u2 is a microcontroller programmed to do the conversion. CH340G / CP2102 are faster in terms of performance and cheaper.
-### What robots can you build with it ?
-You can build basic Line Follower, RC Car, Robotic Arm, Quadcopter etc. robots
-### Is it original Made in Italy Arduino ?
-Arduino is open source, anybody can make it. It is a low cost version of Arduino Uno made availble to Indian Students at economical price because of being made in China / India.
-### I don't know programming can I learn Arduino ?
-Microcontrollers are built to work as per the program instructions. We recommend you to learn basic programming first.
-### Where can I get started ?
-Checkout this blog.
-
-## Related Links <a name="Links"></a>
-- 
-
-## Downloads <a name="Downloads"></a>
-- Arduino IDE <a href="https://downloads.arduino.cc/arduino-1.8.12-windows.exe" target="_blank" rel="nofollow">Windows</a>, <a href="https://downloads.arduino.cc/arduino-1.8.12-linux64.tar.xz" target="_blank" rel="nofollow">Linux</a>, <a href="https://downloads.arduino.cc/arduino-1.8.12-macosx.zip" target="_blank" rel="nofollow">Mac OS</a> or <a href="https://www.arduino.cc/en/main/software" target="_blank" rel="nofollow">visit here</a>
-  
-  
-  
-- <a href="/storage/product/arduino-uno/arduino-uno-pinout-diagram.pdf" target="_blank">Pinout Diagram</a>
-- <a href="/storage/ic/atmega328p/ATmega328P_Datasheet.pdf" target="_blank" rel="nofollow">ATmega328P Datasheet</a>
 
