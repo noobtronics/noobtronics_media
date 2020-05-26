@@ -1,10 +1,10 @@
 # Arduino Uno Microcontroller Board with USB Cable
 
 ``` yaml
-title: "Arduino Uno: Low Cost Arduino to buy online in India - noobtronics"
-meta_description: Arduino Uno is famous microcontroller board based on ATmega328P IC. Purchase now with free delivery and cash on delivery options all over India.
-keywords: arduino uno, atmega328, microcontroller board
-tags: arduino-uno, arduino, atmega328p
+title: "Arduino Pro Mini Buy Online in India at Best Price - noobtronics"
+meta_description: Arduino Pro Mini is low priced board with minimal setup required to run Arduino Code. Purchase now with free delivery and cash on delivery options all over India.
+keywords: arduino pro mini, atmega328, microcontroller board
+tags: arduino-pro-mini, arduino, atmega328p
 
 ```
 
