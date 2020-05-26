@@ -1,4 +1,4 @@
-# Smartduino Uno Microcontroller Board
+# Smartduino Uno - ATmega328PB Based Microcontroller Board
 
 ``` yaml
 title: "Smartduino Uno Buy Online in India - noobtronics"
