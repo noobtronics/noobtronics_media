@@ -1,7 +1,8 @@
-# Arduino Uno Microcontroller Board with USB Cable
+# Arduino Pro Mini Microcontroller Board
 
 ``` yaml
 title: "Arduino Pro Mini Buy Online in India at Best Price - noobtronics"
+shortname: Arduino Pro Mini
 meta_description: Arduino Pro Mini is low priced board with minimal setup required to run Arduino Code. Purchase now with free delivery and cash on delivery options all over India.
 keywords: arduino pro mini, atmega328, microcontroller board
 tags: arduino-pro-mini, arduino, atmega328p
