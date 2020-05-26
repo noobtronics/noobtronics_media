@@ -32,6 +32,7 @@ variants:
     cardname: Smartduino Uno
     cardtitle: 'ATmega328PB uC'
     image: 2
+    is_shop: true
     in_stock: true
 ```
 
