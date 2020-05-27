@@ -16,7 +16,7 @@ description:
 ## Images
 <p float="left">
   <img alt="ESP32 Wifi Microcontroller Board" 
-       src="/storage/product/esp8266/esp8266-microcontroller.jpg" width="280" 
+       src="/storage/product/esp32/esp32-microcontroller.jpg" width="280" 
    />
 </p>
 
