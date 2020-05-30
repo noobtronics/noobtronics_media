@@ -2,7 +2,7 @@
 
 ``` yaml
 title: "HM 10 Bluetooth Module Buy Online in India at Best Price - noobtronics"
-shorname: HM-10 Module
+shortname: HM-10 Module
 meta_description: HM 10 is a Bluetooth Module Based on CC2541 microcontroller. Purchase now with free delivery and cash on delivery options all over India.
 keywords: ble, hm 10, bluetooth module
 tags: hm-10, modules, bluetooth-module
