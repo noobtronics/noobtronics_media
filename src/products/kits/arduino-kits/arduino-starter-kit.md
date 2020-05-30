@@ -12,7 +12,7 @@ tags: arduino-kit, arduino
 
 ## Images
 <p float="left">
-  <img alt="Arduino Uno with USB Cable" 
+  <img alt="Arduino Starter Kit for Beginners" 
        src="/storage/product/arduino-starter-kit/arduino-starter-kit.jpg" width="280" 
    />
 </p>
