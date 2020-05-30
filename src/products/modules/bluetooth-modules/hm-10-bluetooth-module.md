@@ -2,6 +2,7 @@
 
 ``` yaml
 title: "HM 10 Bluetooth Module Buy Online in India at Best Price - noobtronics"
+shortname: HM-10 Module
 meta_description: HM 10 is a Bluetooth Module Based on CC2541 microcontroller. Purchase now with free delivery and cash on delivery options all over India.
 keywords: ble, hm 10, bluetooth module
 tags: hm-10, modules, bluetooth-module
@@ -11,17 +12,28 @@ tags: hm-10, modules, bluetooth-module
 
 ## Images
 <p float="left">
-  <img alt="Arduino Uno with USB Cable" 
-       src="/storage/product/arduino-uno/arduino-uno-dip-with-usb-cable.png" width="280" 
+  <img alt="HM 10 Bluetooth Module" 
+       src="/storage/product/hm-10-bluetooth-module/hm-10-bluetooth-module.jpg" width="280" 
+   />
+  <img alt="6 Pin HM 10 Bluetooth Module AT-09" 
+       src="/storage/product/hm-10-bluetooth-module/hm-10-bluetooth-module-at-09-6-pin.jpg" width="280" 
+   />
+  <img alt="HM 10 CC2541 Bluetooth Module" 
+       src="/storage/product/hm-10-bluetooth-module/hm-10-cc2541-module.jpg" width="280" 
+   />
+  <img alt="Pin Details of HM 10 Module for Arduino" 
+       src="/storage/product/hm-10-bluetooth-module/hm-10-pinout.jpg" width="280" 
    />
 </p>
 
 ``` yaml
 variants:
-  - name: SMD Version (China)
+  - name: HM-10
     price: 300
-    cardtitle: 'SMD Version'
-    image: 3
+    cardname: 'HM-10'
+    cardtitle: 'BLE 4.0 Module'
+    image: 1
+    is_shop: true
     in_stock: true
 ```
 
