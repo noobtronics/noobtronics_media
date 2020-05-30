@@ -30,4 +30,4 @@ variants:
 
 <a name="What-is-HM-10-Bluetooth-Module"></a>
 ## What is HM 10 Bluetooth Module ? 
-HM 10 is a Bluetooth Module Based on CC2541 microcontroller. You can add bluetooth connectivity to Arduino / Raspberry Pi using it. It can also be programmed to work standalone and controlled by Smartphone App via Bluetooth.
+HM 10 is a Bluetooth Module Based on CC2541 microcontroller. You can use it to add bluetooth connectivity to Arduino or Raspberry Pi. You can also program it to work standalone and controll it using Android or iOS App via Bluetooth.
