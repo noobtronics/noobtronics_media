@@ -1,7 +1,8 @@
-# Arduino Uno Microcontroller Board with USB Cable
+# Arduino Starter Kit
 
 ``` yaml
 title: "Arduino Starter Kit Buy Online in India at Best Price - noobtronics"
+shortname: Arduino Starter Kit
 meta_description: Arduino Starter Kit is all in one solution containing Arduino Uno, Sensors and Electronic Components to get started with Arduino Programming. Purchase now with free delivery and cash on delivery options all over India.
 keywords: arduino starter kit, arduino uno, electronic kit
 tags: arduino-kit, arduino
