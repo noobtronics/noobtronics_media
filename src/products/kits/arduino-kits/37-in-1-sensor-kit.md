@@ -11,8 +11,8 @@ tags: 37-in-1-sensor-kit, sensors
 
 ## Images
 <p float="left">
-  <img alt="Arduino Uno with USB Cable" 
-       src="/storage/product/arduino-uno/arduino-uno-dip-with-usb-cable.png" width="280" 
+  <img alt="37 in 1 Sensor Modules Kit" 
+       src="/storage/product/37-in-1-sensor-kit/37-in-1-sensor-kit.jpg" width="280" 
    />
 </p>
 
