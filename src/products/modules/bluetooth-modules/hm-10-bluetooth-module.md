@@ -31,7 +31,7 @@ variants:
   - name: HM-10
     price: 300
     cardname: 'HM-10'
-    cardtitle: 'BLE 4.0 Module'
+    cardtitle: 'Bluetooth 4.0 Module'
     image: 1
     is_shop: true
     in_stock: true
