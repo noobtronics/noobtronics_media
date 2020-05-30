@@ -34,8 +34,9 @@ variants:
 ```
 
 ## Table of contents
-1. [What is Arduino Uno ?](#What-is-Arduino-Uno)
+1. [What is 37 in 1 Sensor Kit ?](#What-is-37-in-1-Sensor-Kit)
 
-## What is Arduino Uno ? <a name="What-is-Arduino-Uno"></a>
-Arduino Uno is easiest to learn microcontroller board. You can connect it to computer via USB Cable and program it to Control Motors, LEDs, Sensors and ICs to make electronic projects like basic robots, line followers, robotic arm. For many, Arduino Uno is the first board to be used by electronics engineers when they start learning about microcontrollers.
+<a name="What-is-37-in-1-Sensor-Kit"></a>
+## What is 37 in 1 Sensor Kit ? 
+37 in 1 Sensor Kit for Arduino contains 37 different sensors which you can use to measure physical quantities.
 
