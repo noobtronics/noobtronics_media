@@ -2,6 +2,7 @@
 
 ``` yaml
 title: "37 in 1 Sensor Kit Buy Online in India at Best Price - noobtronics"
+shortname: 37 in 1 Sensor Kit
 meta_description: 37 in 1 Sensor Kit for Arduino contains 37 different sensors which you can use to measure physical quantities. Purchase now with free delivery and cash on delivery options all over India.
 keywords: 37 in 1 Sensor Kit, sensors
 tags: 37-in-1-sensor-kit, sensors
@@ -26,8 +27,8 @@ tags: 37-in-1-sensor-kit, sensors
 variants:
   - name: Sensor Kit
     price: 1200
-    cartname: ' 37 in 1 Sensor Kit'
-    cardtitle: 'For arduino'
+    cardname: ' 37 in 1 Sensor Kit'
+    cardtitle: 'For Arduino, Raspberry Pi'
     image: 1
     is_shop: true
     in_stock: true
