@@ -11,8 +11,14 @@ tags: 37-in-1-sensor-kit, sensors
 
 ## Images
 <p float="left">
-  <img alt="37 in 1 Sensor Modules Kit" 
+  <img alt="37 in 1 Sensor Kit for Arduino, Raspberry Pi" 
        src="/storage/product/37-in-1-sensor-kit/37-in-1-sensor-kit.jpg" width="280" 
+   />
+  <img alt="37 Sensor Modules" 
+       src="/storage/product/37-in-1-sensor-kit/37-sensor-modules.jpg" width="280" 
+   />
+  <img alt="List of Sensor modules in 37 in 1 Sensor Kit" 
+       src="/storage/product/37-in-1-sensor-kit/37-in-1-sensor-kit-modules-list.jpg" width="280" 
    />
 </p>
 
