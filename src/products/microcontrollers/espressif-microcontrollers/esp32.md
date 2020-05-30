@@ -2,6 +2,7 @@
 
 ``` yaml
 title: "ESP32 Buy Online in India at Best Price - noobtronics"
+shortname: ESP32
 meta_description: ESP32 is advance version of ESP8266 supports Wifi. Purchase now with free delivery and cash on delivery options all over India.
 keywords: esp32, espressif, microcontroller board
 tags: esp32, espressif
@@ -16,7 +17,7 @@ description:
 ## Images
 <p float="left">
   <img alt="ESP32 Wifi Microcontroller Board" 
-       src="/storage/product/esp8266/esp8266-microcontroller.jpg" width="280" 
+       src="/storage/product/esp32/esp32-microcontroller.jpg" width="280" 
    />
 </p>
 
