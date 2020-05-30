@@ -8,10 +8,6 @@ tags: arduino-kit, arduino
 
 ```
 
-``` yaml
-description: 
-  - Select among SMD vs DIP and Made in India vs Made in China boards.
-```
 
 ## Images
 <p float="left">
@@ -22,15 +18,15 @@ description:
 
 ``` yaml
 variants:
-  - name: SMD Version (China)
-    price: 300
+  - name: Basic Kit
+    price: 1200
     cardname: Arduino Starter Kit
     cardtitle: 'For Beginners'
     image: 1
     is_shop: true
     in_stock: true
-  - name: DIP Version (Made in India)
-    price: 400
+  - name: IOT Kit
+    price: 1700
     cardname: Arduino Starter Kit
     cardtitle: 'For IOT Beginners'
     image: 1
@@ -40,13 +36,7 @@ variants:
 
 ## Table of contents
 1. [What is Arduino Starter Kit ?](#What-is-Arduino-Starter-Kit)
-1. [Description](#Description)
-3. [Specification](#Specifications)
-4. [Comparison of Different Models](#Model-Comparison)
-5. [Package Contents](#Package-Contents)
-6. [Frequently Asked Questions](#FAQ)
-7. [Related Links](#Links)
-7. [Downloads](#Downloads)
+
 
 <a name="What-is-Arduino-Starter-Kit"></a>
 ## What is Arduino Starter Kit ? 
