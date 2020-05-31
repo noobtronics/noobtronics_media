@@ -11,17 +11,17 @@ tags: esp-01, modules, wifi-module
 
 ## Images
 <p float="left">
-  <img alt="HM 10 Bluetooth Module" 
-       src="/storage/product/hm-10-bluetooth-module/hm-10-bluetooth-module.jpg" width="280" 
+  <img alt="ESP 01 Wifi Module" 
+       src="/storage/product/esp-01/esp-01.jpg" width="280" 
    />
-  <img alt="6 Pin HM 10 Bluetooth Module AT-09" 
-       src="/storage/product/hm-10-bluetooth-module/hm-10-bluetooth-module-at-09-6-pin.jpg" width="280" 
+  <img alt="Top View of ESP8266 based ESP 01" 
+       src="/storage/product/esp-01/esp-01-top-view.jpg" width="280" 
    />
-  <img alt="HM 10 CC2541 Bluetooth Module" 
-       src="/storage/product/hm-10-bluetooth-module/hm-10-cc2541-module.jpg" width="280" 
+  <img alt="Dimensions of ESP 01" 
+       src="/storage/product/esp-01/esp-01-dimension.jpg" width="280" 
    />
-  <img alt="Pin Details of HM 10 Module for Arduino" 
-       src="/storage/product/hm-10-bluetooth-module/hm-10-pinout.jpg" width="280" 
+  <img alt="ESP 01 Pin Configuration" 
+       src="/storage/product/esp-01/esp-01-pinout.jpg" width="280" 
    />
 </p>
 
