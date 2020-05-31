@@ -2,7 +2,7 @@
 
 ``` yaml
 title: "ESP 01 Buy Online in India at Best Price - noobtronics"
-shortname: ESP 01 Module
+shortname: ESP 01
 meta_description: ESP 01 is a Wifi Module Based on ESP8266 microcontroller. Purchase now with free delivery and cash on delivery options all over India.
 keywords: esp-01, esp8266, wifi module
 tags: esp-01, modules, wifi-module
