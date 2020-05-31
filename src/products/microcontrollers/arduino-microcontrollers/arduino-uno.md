@@ -55,7 +55,6 @@ variants:
     in_stock: false
 ```
 
-## Table of contents
 1. [What is Arduino Uno ?](#What-is-Arduino-Uno)
 1. [Description](#Description)
 3. [Specification](#Specifications)
