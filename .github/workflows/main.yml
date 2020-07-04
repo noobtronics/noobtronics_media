@@ -1,5 +1,7 @@
-name: CI
-on: [push]
+name: AWS_S3_Sync
+on:
+  repository_dispatch:
+    types: [s3sync]
 jobs:
   build:
     runs-on: ubuntu-latest
