@@ -14,4 +14,6 @@ jobs:
         aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
         aws-region: ap-south-1
     - name: Deploy static site to S3 bucket
-      run: aws s3 sync ./ s3://noobtronics --delete --exclude=".*/*" --cache-control max-age=2592000
+      run: aws s3 sync ./ s3://noobtronics --delete --exclude=".*/*" --cache-control max-age=2592000 \
+      | awk '{print $2;}' | \
+      xargs aws cloudfront create-invalidation --distribution-id ${{ secrets.AWS_CLOUDFRONT_ID }} --paths
