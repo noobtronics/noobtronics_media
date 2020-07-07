@@ -5,7 +5,7 @@ var debug = require('gulp-debug');
 
 
 gulp.task('resize', async function () {
-    gulp.src('storage/**/*.webp')
+    gulp.src('storage/**/*.png')
     .pipe(debug())
     .pipe(debug());
 });
